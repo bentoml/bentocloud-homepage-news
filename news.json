@@ -1,0 +1,87 @@
+{
+    "notifications": [
+        {
+            "level": "positive",
+            "title": "Sample Message 1",
+            "link": "https://github.com",
+            "cover": "https://via.placeholder.com/150",
+            "started_at": "2022-01-01T00:00:00.000Z",
+            "ended_at": "2022-01-10T00:00:00.000Z",
+            "version_constraint": ">= 0.0.1"
+        },
+        {
+            "title": "Sample Message 2",
+            "link": "https://github.com",
+            "cover": "https://via.placeholder.com/150",
+            "started_at": "2022-01-01T00:00:00.000Z",
+            "ended_at": "2022-01-06T00:00:00.000Z",
+            "version_constraint": ">= 0.0.1"
+        },
+        {
+            "title": "Sample Message 3",
+            "link": "https://github.com",
+            "cover": "https://via.placeholder.com/150",
+            "started_at": "2022-01-01T00:00:00.000Z",
+            "ended_at": "2022-01-03T00:00:00.000Z",
+            "version_constraint": ">= 0.0.1"
+        }
+    ],
+    "documentations": [
+        {
+            "title": "BentoCloud is the best way to deploy bentos",
+            "link": "https://www.bentoml.com/bento-cloud/"
+        },
+        {
+            "title": "Getting Started",
+            "link": "https://docs.bentoml.org/en/latest/tutorial.html"
+        },
+        {
+            "title": "BentoML Documentation",
+            "link": "https://docs.bentoml.org/en/latest/"
+        },
+        {
+            "title": "Administrator's Guide",
+            "link": "https://github.com/bentoml/yatai/blob/main/docs/admin-guide.md"
+        },
+        {
+            "title": "Example Projects",
+            "link": "https://github.com/bentoml/BentoML/tree/main/examples"
+        }
+    ],
+    "release_notes": [
+        {
+            "title": "BentoML 1.0 Launch Event!",
+            "link": "https://www.youtube.com/watch?v=XjZdKYlVip4"
+        },
+        {
+            "title": "Yatai Preview Release",
+            "link": "https://github.com/bentoml/Yatai"
+        },
+        {
+            "title": "New BentoML Organization Page!",
+            "link": "https://github.com/bentoml"
+        },
+        {
+            "title": "Join our community Slack",
+            "link": "https://l.linklyhq.com/l/ktO8"
+        }
+    ],
+    "blog_posts": [
+        {
+            "title": "Introducing the Official BentoML 1.0 Release",
+            "link": "https://modelserving.com/blog/introducing-bentoml-10"
+        },
+        {
+            "title": "Introducing Bentoctl: Model Deployment Anywhere",
+            "link": "https://l.bentoml.com/introducing-bentoctl"
+        },
+        {
+            "title": "Breaking up with Flask and FastAPI",
+            "link": "https://l.bentoml.com/breaking-up-with-flask-and-fastapi"
+        },
+        {
+            "title": "BentoML: Your ML Model Serving Framework",
+            "link": "https://link.bentoml.com/your-ml-model-serving-framework"
+        }
+    ]
+}
