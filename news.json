@@ -28,38 +28,42 @@
     ],
     "documentations": [
         {
-            "title": "BentoCloud is the best way to deploy bentos",
-            "link": "https://www.bentoml.com/bento-cloud/"
+            "title": "Serverless Cloud for AI",
+            "link": "https://bentoml.com/cloud"
         },
         {
-            "title": "Getting Started",
-            "link": "https://docs.bentoml.org/en/latest/tutorial.html"
+            "title": "Getting Started with BentoCloud",
+            "link": "https://docs.bentoml.com/en/latest/bentocloud/getting-started/index.html"
         },
         {
             "title": "BentoML Documentation",
-            "link": "https://docs.bentoml.org/en/latest/"
+            "link": "https://docs.bentoml.com/en/latest/index.html"
         },
         {
-            "title": "Administrator's Guide",
-            "link": "https://github.com/bentoml/yatai/blob/main/docs/admin-guide.md"
+            "title": "Blog",
+            "link": "https://bentoml.com/blog"
         },
         {
-            "title": "Example Projects",
-            "link": "https://github.com/bentoml/BentoML/tree/main/examples"
+            "title": "Gallery Projects",
+            "link": "https://bentoml.com/gallery"
         }
     ],
     "release_notes": [
         {
-            "title": "BentoML 1.0 Launch Event!",
-            "link": "https://www.youtube.com/watch?v=XjZdKYlVip4"
+            "title": "OpenLLM - An open platform for operating LLMs in production",
+            "link": "https://github.com/bentoml/OpenLLM"
         },
         {
-            "title": "Yatai Preview Release",
-            "link": "https://github.com/bentoml/Yatai"
+            "title": "Unlock Freedom to Build",
+            "link": "https://bentoml.com/"
         },
         {
-            "title": "New BentoML Organization Page!",
-            "link": "https://github.com/bentoml"
+            "title": "BentoML Release Notes",
+            "link": "https://github.com/bentoml/BentoML"
+        },
+        {
+            "title": "Follow BentoML on LinkedIn",
+            "link": "https://www.linkedin.com/company/bentoml/"
         },
         {
             "title": "Join our community Slack",
@@ -68,20 +72,24 @@
     ],
     "blog_posts": [
         {
-            "title": "Introducing the Official BentoML 1.0 Release",
-            "link": "https://modelserving.com/blog/introducing-bentoml-10"
+            "title": "Announcing OpenLLM",
+            "link": "https://bentoml.com/blog/announcing-open-llm-an-open-source-platform-for-running-large-language-models-in-production"
         },
         {
-            "title": "Introducing Bentoctl: Model Deployment Anywhere",
-            "link": "https://l.bentoml.com/introducing-bentoctl"
+            "title": "Deploying Your Own Stable Diffusion Service",
+            "link": "https://bentoml.com/blog/deploying-your-own-stable-diffusion-service-mz9wk"
         },
         {
-            "title": "Breaking up with Flask and FastAPI",
-            "link": "https://l.bentoml.com/breaking-up-with-flask-and-fastapi"
+            "title": "Deploy a Voice-Based Chatbot with BentoML, LangChain, and Gradio",
+            "link": "https://towardsdatascience.com/deploy-a-voice-based-chatbot-with-bentoml-langchain-and-gradio-7f25af3e45df"
         },
         {
-            "title": "BentoML: Your ML Model Serving Framework",
-            "link": "https://link.bentoml.com/your-ml-model-serving-framework"
+            "title": "How To Deploy PyTorch Models as Production-Ready APIs",
+            "link": "https://towardsdatascience.com/how-to-deploy-pytorch-models-as-production-ready-apis-f61136fd0244"
+        },
+        {
+            "title": "A Guide To ML Monitoring And Drift Detection",
+            "link": "https://bentoml.com/blog/a-guide-to-ml-monitoring-and-drift-detection"
         }
     ]
 }
