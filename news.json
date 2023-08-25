@@ -28,7 +28,7 @@
     ],
     "documentations": [
         {
-            "title": "Serverless Cloud for AI",
+            "title": "BentoCloud - Serverless Cloud for AI",
             "link": "https://bentoml.com/cloud"
         },
         {
@@ -40,7 +40,7 @@
             "link": "https://docs.bentoml.com/en/latest/index.html"
         },
         {
-            "title": "Blog",
+            "title": "Engineering Blog",
             "link": "https://bentoml.com/blog"
         },
         {
@@ -72,24 +72,24 @@
     ],
     "blog_posts": [
         {
+            "title": "OneDiffusion: Run Any Diffusion Model Anywhere",
+            "link": "https://bentoml.com/blog/introducing-onediffusion-run-any-diffusion-model-anywhere"
+        },
+        {
+            "title": "Deploying Hugging Face Models with BentoML",
+            "link": "https://huggingface.co/blog/deploy-deepfloydif-using-bentoml"
+        },
+        {
             "title": "Announcing OpenLLM",
             "link": "https://bentoml.com/blog/announcing-open-llm-an-open-source-platform-for-running-large-language-models-in-production"
         },
         {
-            "title": "Deploying Your Own Stable Diffusion Service",
-            "link": "https://bentoml.com/blog/deploying-your-own-stable-diffusion-service-mz9wk"
-        },
-        {
-            "title": "Deploy a Voice-Based Chatbot with BentoML, LangChain, and Gradio",
+            "title": "Deploy a Voice-Based Chatbot",
             "link": "https://towardsdatascience.com/deploy-a-voice-based-chatbot-with-bentoml-langchain-and-gradio-7f25af3e45df"
         },
         {
             "title": "How To Deploy PyTorch Models as Production-Ready APIs",
             "link": "https://towardsdatascience.com/how-to-deploy-pytorch-models-as-production-ready-apis-f61136fd0244"
-        },
-        {
-            "title": "A Guide To ML Monitoring And Drift Detection",
-            "link": "https://bentoml.com/blog/a-guide-to-ml-monitoring-and-drift-detection"
         }
     ]
 }
