@@ -72,16 +72,16 @@
     ],
     "blog_posts": [
         {
-            "title": "Announcing OpenLLM",
-            "link": "https://bentoml.com/blog/announcing-open-llm-an-open-source-platform-for-running-large-language-models-in-production"
+            "title": "Introducing OneDiffusion: Run Any Diffusion Model Anywhere",
+            "link": "https://www.bentoml.com/blog/introducing-onediffusion-run-any-diffusion-model-anywhere"
         },
         {
-            "title": "Deploying Your Own Stable Diffusion Service",
-            "link": "https://bentoml.com/blog/deploying-your-own-stable-diffusion-service-mz9wk"
+            "title": "Deploying an OCR Model with EasyOCR and BentoML",
+            "link": "https://www.bentoml.com/blog/deploying-an-ocr-model-with-easyocr-and-bentoml"
         },
         {
-            "title": "Deploy a Voice-Based Chatbot with BentoML, LangChain, and Gradio",
-            "link": "https://towardsdatascience.com/deploy-a-voice-based-chatbot-with-bentoml-langchain-and-gradio-7f25af3e45df"
+            "title": "Deploying Hugging Face Models with BentoML: DeepFloyd IF in Action",
+            "link": "https://huggingface.co/blog/deploy-deepfloydif-using-bentoml"
         },
         {
             "title": "How To Deploy PyTorch Models as Production-Ready APIs",
