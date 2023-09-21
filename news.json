@@ -28,68 +28,68 @@
     ],
     "documentations": [
         {
-            "title": "BentoCloud - Serverless Cloud for AI",
-            "link": "https://bentoml.com/cloud"
+            "title": "BentoCloud Quickstart",
+            "link": "https://docs.bentoml.com/en/latest/bentocloud/getting-started/quickstart.html"
         },
         {
-            "title": "Getting Started with BentoCloud",
-            "link": "https://docs.bentoml.com/en/latest/bentocloud/getting-started/index.html"
+            "title": "Deploy your own Llama2",
+            "link": "https://www.bentoml.com/blog/deploying-llama-2-7b-on-bentocloud"
         },
         {
-            "title": "BentoML Documentation",
-            "link": "https://docs.bentoml.com/en/latest/index.html"
+            "title": "Langchain to Production",
+            "link": "https://www.bentoml.com/blog/building-a-production-ready-langchain-application-with-bentoml-and-openllm"
         },
         {
-            "title": "Engineering Blog",
-            "link": "https://bentoml.com/blog"
+            "title": "Stable Diffusion XL with Dynamic Lora Adapters",
+            "link": "https://www.bentoml.com/blog/deploying-stable-diffusion-xl-on-bentocloud-and-dynamically-loading-lora-adapters"
         },
         {
-            "title": "Gallery Projects",
-            "link": "https://bentoml.com/gallery"
+            "title": "Join our community!",
+            "link": "https://l.linklyhq.com/l/ktO8"
         }
     ],
     "release_notes": [
         {
-            "title": "OpenLLM - An open platform for operating LLMs in production",
+            "title": "OpenLLM - LLM deployment in production",
             "link": "https://github.com/bentoml/OpenLLM"
         },
         {
-            "title": "Unlock Freedom to Build",
-            "link": "https://bentoml.com/"
+            "title": "OneDiffusion - Operate Stable Diffusion at scale",
+            "link": "https://github.com/bentoml/OneDiffusion"
         },
         {
-            "title": "BentoML Release Notes",
-            "link": "https://github.com/bentoml/BentoML"
+            "title": "Transformers Service - NLP tasks for summarization, classification and more",
+            "link": "https://github.com/bentoml/transformers-nlp-service"
         },
         {
-            "title": "Follow BentoML on LinkedIn",
-            "link": "https://www.linkedin.com/company/bentoml/"
+            "title": "CLIP Service - API that connects text and images",
+            "link": "https://github.com/bentoml/CLIP-API-service"
         },
         {
-            "title": "Join our community Slack",
-            "link": "https://l.linklyhq.com/l/ktO8"
+            "title": "And more in BentoCloud’s project gallery",
+            "link": "https://bentoml.com/gallery"
         }
     ],
     "blog_posts": [
         {
-            "title": "OneDiffusion: Run Any Diffusion Model Anywhere",
-            "link": "https://bentoml.com/blog/introducing-onediffusion-run-any-diffusion-model-anywhere"
+            "title": "Create your first Bento",
+            "link": "https://docs.bentoml.com/en/latest/quickstarts/deploy-a-transformer-model-with-bentoml.html"
         },
         {
-            "title": "Deploying Hugging Face Models with BentoML",
-            "link": "https://huggingface.co/blog/deploy-deepfloydif-using-bentoml"
+            "title": "Running on a GPU",
+            "link": "https://docs.bentoml.com/en/latest/guides/gpu.html"
         },
         {
-            "title": "Announcing OpenLLM",
-            "link": "https://bentoml.com/blog/announcing-open-llm-an-open-source-platform-for-running-large-language-models-in-production"
+            "title": "Adaptive Batching",
+            "link": "https://docs.bentoml.com/en/latest/guides/batching.html"
         },
         {
-            "title": "Deploy a Voice-Based Chatbot",
-            "link": "https://towardsdatascience.com/deploy-a-voice-based-chatbot-with-bentoml-langchain-and-gradio-7f25af3e45df"
+            "title": "Monitoring and Observability",
+            "link": "https://docs.bentoml.com/en/latest/bentocloud/topics/observability.html"
         },
         {
-            "title": "How To Deploy PyTorch Models as Production-Ready APIs",
-            "link": "https://towardsdatascience.com/how-to-deploy-pytorch-models-as-production-ready-apis-f61136fd0244"
+            "title": "Advanced Model Serving Architecture",
+            "link": "https://docs.bentoml.com/en/latest/guides/graph.html"
         }
     ]
 }
