@@ -58,7 +58,7 @@
             "link": "https://github.com/bentoml/OneDiffusion"
         },
         {
-            "title": "Transformers Service - NLP tasks for summarization, classification and more",
+            "title": "NLP tasks for summarization, classification and more",
             "link": "https://github.com/bentoml/transformers-nlp-service"
         },
         {
