@@ -26,7 +26,7 @@
  "versions": ["tmhzzxcxckbwlduh", "w47zocslas7yfduh", "32vwruslascbbduh"]
  "description": {
          "name": "Iris Classifier",
-  "text": "This is an iris classifier model that predicts the species of an iris flower based on its sepal length, sepal width, petal length and petal width.\nCapacity: 12 requests/s per instance\nServing Cost*:\n  $0.13 per instance per hour\n  $0.0013 per image\n(* Approximate price, subject to actual deployment configuration)“,
+  "text": "Classify the species of iris flowers.\nCapacity: 12 requests/s per instance\nServing Cost*:\n  $0.13 per instance per hour\n  $0.0013 per image\n(* Approximate price, subject to actual deployment configuration)“,
   "link": "www.google.com"
   }
   }
