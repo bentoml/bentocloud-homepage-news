@@ -26,7 +26,7 @@
  "versions": ["tmhzzxcxckbwlduh", "w47zocslas7yfduh", "32vwruslascbbduh"]
  "description": {
          "name": "Iris Classifier",
-  "text": "Classify the species of iris flowers.\nCapacity: 12 requests/s per instance\nServing Cost*:\n  $0.13 per instance per hour\n  $0.0013 per image\n(* Approximate price, subject to actual deployment configuration)“,
+  "text": "Classify the species of iris flowers.\nCapacity: 12 requests/s per instance\nServing Cost*:\n  $0.13 per instance per hour\n  $0.0013 per image\n(* Approximate price, subject to actual deployment configuration)",
   "link": "www.google.com"
   }
   }
