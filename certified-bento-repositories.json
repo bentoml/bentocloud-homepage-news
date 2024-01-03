@@ -1,0 +1,34 @@
+{
+		"certified_bentos": [
+    {
+			"org_name":  "multi-tenancy",
+			"repo_name": "linear_regression",
+			"versions": []string{"vlilv4cmmwpdhduh", "uw7w4esmmwulfduh"},
+			"description": {
+        "name": "Linear Regression",
+				"text": "Predict housing prices with the linear regression model. \nCapacity: 12 requests/s per instance\nServing Cost*:\n  $0.13 per instance per hour\n  $0.0013 per image\n(* Approximate price, subject to actual deployment configuration)",
+				"link": "www.google.com"
+			}
+		},
+    {
+      "org_name":  "multi-tenancy",
+			"repo_name": "yolo_v5_demo",
+			"versions": []string{"nitlkbcmmw5adduh"},
+			"description": {
+        "name": "Linear Regression",
+				"text": "Detect objects in an image through YoloV5.\nCapacity: 12 requests/s per instance\nServing Cost*:\n  $0.13 per instance per hour\n  $0.0013 per image\n(* Approximate price, subject to actual deployment configuration)",
+				"link": "www.google.com"
+			}
+    },
+    {
+      "org_name":  "multi-tenancy",
+			"repo_name": "iris_classifier",
+			"versions": []string{"tmhzzxcxckbwlduh", "w47zocslas7yfduh", "32vwruslascbbduh"},
+			"description": {
+        "name": "Iris Classifier",
+				"text": "This is an iris classifier model that predicts the species of an iris flower based on its sepal length, sepal width, petal length and petal width.\nCapacity: 12 requests/s per instance\nServing Cost*:\n  $0.13 per instance per hour\n  $0.0013 per image\n(* Approximate price, subject to actual deployment configuration)“,
+				"link": "www.google.com"
+			}
+    }
+  ]
+}
