@@ -20,7 +20,7 @@
                 "nitlkbcmmw5adduh"
             ],
             "description": {
-                "name": "Linear Regression",
+                "name": "Yolo V5 Demo",
                 "text": "Detect objects in an image through YoloV5.\nCapacity: 12 requests/s per instance\nServing Cost*:\n  $0.13 per instance per hour\n  $0.0013 per image\n(* Approximate price, subject to actual deployment configuration)",
                 "link": "www.google.com"
             }
