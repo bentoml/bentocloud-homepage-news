@@ -42,7 +42,7 @@
                 "text": "Classify the species of iris flowers.",
                 "link": "www.google.com",
                 "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
-                "label": ["Classification"]
+                "label": ["Machine Learning"]
             }
         }
     ]
