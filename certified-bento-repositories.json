@@ -1,0 +1,43 @@
+{
+    "certified_bentos": [
+        {
+            "org_name": "multi-tenancy",
+            "repo_name": "linear_regression",
+            "versions": [
+                "vlilv4cmmwpdhduh",
+                "uw7w4esmmwulfduh"
+            ],
+            "description": {
+                "name": "Linear Regression",
+                "text": "Predict housing prices with the linear regression model.",
+                "link": "www.google.com"
+            }
+        },
+        {
+            "org_name": "multi-tenancy",
+            "repo_name": "yolo_v5_demo",
+            "versions": [
+                "nitlkbcmmw5adduh"
+            ],
+            "description": {
+                "name": "Yolo V5 Demo",
+                "text": "Detect objects in an image through YoloV5.",
+                "link": "www.google.com"
+            }
+        },
+        {
+            "org_name": "multi-tenancy",
+            "repo_name": "iris_classifier",
+            "versions": [
+                "tmhzzxcxckbwlduh",
+                "w47zocslas7yfduh",
+                "32vwruslascbbduh"
+            ],
+            "description": {
+                "name": "Iris Classifier",
+                "text": "Classify the species of iris flowers.",
+                "link": "www.google.com"
+            }
+        }
+    ]
+}
