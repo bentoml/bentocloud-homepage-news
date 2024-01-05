@@ -10,7 +10,9 @@
             "description": {
                 "name": "Linear Regression",
                 "text": "Predict housing prices with the linear regression model.",
-                "link": "www.google.com"
+                "link": "www.google.com",
+                "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
+                "label": "Machine Learning"
             }
         },
         {
@@ -22,7 +24,9 @@
             "description": {
                 "name": "Yolo V5 Demo",
                 "text": "Detect objects in an image through YoloV5.",
-                "link": "www.google.com"
+                "link": "www.google.com",
+                "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
+                "label": "Computer Vision"
             }
         },
         {
@@ -36,7 +40,9 @@
             "description": {
                 "name": "Iris Classifier",
                 "text": "Classify the species of iris flowers.",
-                "link": "www.google.com"
+                "link": "www.google.com",
+                "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
+                "label": "Classification"
             }
         }
     ]
