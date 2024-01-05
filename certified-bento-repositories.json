@@ -9,7 +9,7 @@
             ],
             "description": {
                 "name": "Linear Regression",
-                "text": "Predict housing prices with the linear regression model. \nCapacity: 12 requests/s per instance\nServing Cost*:\n  $0.13 per instance per hour\n  $0.0013 per image\n(* Price subject to actual deployment configuration)",
+                "text": "Predict housing prices with the linear regression model.",
                 "link": "www.google.com"
             }
         },
@@ -21,7 +21,7 @@
             ],
             "description": {
                 "name": "Yolo V5 Demo",
-                "text": "Detect objects in an image through YoloV5.\nCapacity: 12 requests/s per instance\nServing Cost*:\n  $0.13 per instance per hour\n  $0.0013 per image\n(* Price subject to actual deployment configuration)",
+                "text": "Detect objects in an image through YoloV5.",
                 "link": "www.google.com"
             }
         },
@@ -35,7 +35,7 @@
             ],
             "description": {
                 "name": "Iris Classifier",
-                "text": "Classify the species of iris flowers.\nCapacity: 12 requests/s per instance\nServing Cost*:\n  $0.13 per instance per hour\n  $0.0013 per image\n(* Price subject to actual deployment configuration)",
+                "text": "Classify the species of iris flowers.",
                 "link": "www.google.com"
             }
         }
