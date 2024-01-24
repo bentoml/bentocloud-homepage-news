@@ -1,49 +1,28 @@
 {
-    "certified_bentos": [
-        {
-            "org_name": "multi-tenancy",
-            "repo_name": "linear_regression",
-            "versions": [
-                "vlilv4cmmwpdhduh",
-                "uw7w4esmmwulfduh"
-            ],
-            "description": {
-                "name": "Linear Regression",
-                "text": "Predict housing prices with the linear regression model.",
-                "link": "www.google.com",
-                "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
-                "label": ["Machine Learning"]
-            }
-        },
-        {
-            "org_name": "multi-tenancy",
-            "repo_name": "yolo_v5_demo",
-            "versions": [
-                "nitlkbcmmw5adduh"
-            ],
-            "description": {
-                "name": "Yolo V5 Demo",
-                "text": "Detect objects in an image through YoloV5.",
-                "link": "www.google.com",
-                "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
-                "label": ["Computer Vision"]
-            }
-        },
-        {
-            "org_name": "multi-tenancy",
-            "repo_name": "iris_classifier",
-            "versions": [
-                "tmhzzxcxckbwlduh",
-                "w47zocslas7yfduh",
-                "32vwruslascbbduh"
-            ],
-            "description": {
-                "name": "Iris Classifier",
-                "text": "Classify the species of iris flowers.",
-                "link": "www.google.com",
-                "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
-                "label": ["Machine Learning"]
-            }
-        }
-    ]
+  "certified_bentos": [
+    {
+      "org_name": "bentoml",
+      "repo_name": "nousresearch--llama-2-13b-hf-service",
+      "versions": ["b0491461253755d8c60bf22f0d696b9e337c6375"],
+      "description": {
+        "name": "Llama 2 13b HF Service",
+        "text": "Chat Service based on Meta Llama 2 13b (half-precision) model.",
+        "link": "https://github.com/bentoml/OpenLLM",
+        "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
+        "label": ["LLM", "NLP"]
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "nousresearch--llama-2-7b-hf-service",
+      "versions": ["dacdfcde31297e34b19ee0e7532f29586d2c17bc"],
+      "description": {
+        "name": "Llama 2 7b HF Service",
+        "text": "Chat Service based on Meta Llama 2 7b (half-precision) model.",
+        "link": "https://github.com/bentoml/OpenLLM",
+        "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
+        "label": ["LLM", "NLP"]
+      }
+    }
+  ]
 }
