@@ -9,7 +9,7 @@
         "text": "Chat Service based on Meta Llama 2 13b (half-precision) model.",
         "link": "https://github.com/bentoml/OpenLLM",
         "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
-        "label": ["LLM", "NLP"]
+        "label": ["LLM", "NLP", "Generative"]
       }
     },
     {
@@ -21,7 +21,31 @@
         "text": "Chat Service based on Meta Llama 2 7b (half-precision) model.",
         "link": "https://github.com/bentoml/OpenLLM",
         "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
-        "label": ["LLM", "NLP"]
+        "label": ["LLM", "NLP", "Generative"]
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "svd_service",
+      "versions": ["s6kjquf3egjuajyp"],
+      "description": {
+        "name": "Stable Video Diffusion",
+        "text": "An generative video application, powered by diffusers and Stable Video Diffusion (SVD).",
+        "link": "https://github.com/larme/BentoSVD",
+        "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
+        "label": ["Diffusion", "Generative"]
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "blip_image_captioning",
+      "versions": ["n3kssif3egubjq4b"],
+      "description": {
+        "name": "Blip Image Captioning",
+        "text": "An image captioning application on top of a BLIP model.",
+        "link": "https://github.com/bentoml/BentoBlip",
+        "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
+        "label": ["Diffusion", "Generative"]
       }
     }
   ]
