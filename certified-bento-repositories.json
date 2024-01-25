@@ -7,9 +7,9 @@
       "description": {
         "name": "Llama 2 13b HF Service",
         "text": "Chat Service based on Meta Llama 2 13b (half-precision) model.",
-        "link": "https://github.com/bentoml/OpenLLM",
+        "link": "github.com/bentoml/OpenLLM",
         "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
-        "label": ["LLM", "NLP", "Generative"]
+        "label": ["LLM", "NLP", "Text Generation"]
       }
     },
     {
@@ -19,9 +19,9 @@
       "description": {
         "name": "Llama 2 7b HF Service",
         "text": "Chat Service based on Meta Llama 2 7b (half-precision) model.",
-        "link": "https://github.com/bentoml/OpenLLM",
+        "link": "github.com/bentoml/OpenLLM",
         "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
-        "label": ["LLM", "NLP", "Generative"]
+        "label": ["LLM", "NLP", "Text Generation"]
       }
     },
     {
@@ -31,9 +31,9 @@
       "description": {
         "name": "Stable Video Diffusion",
         "text": "An generative video application, powered by diffusers and Stable Video Diffusion (SVD).",
-        "link": "https://github.com/larme/BentoSVD",
+        "link": "github.com/larme/BentoSVD",
         "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
-        "label": ["Diffusion", "Generative"]
+        "label": ["Image Generation"]
       }
     },
     {
@@ -43,9 +43,9 @@
       "description": {
         "name": "Blip Image Captioning",
         "text": "An image captioning application on top of a BLIP model.",
-        "link": "https://github.com/bentoml/BentoBlip",
+        "link": "github.com/bentoml/BentoBlip",
         "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
-        "label": ["Diffusion", "Generative"]
+        "label": ["Computer Vision"]
       }
     }
   ]
