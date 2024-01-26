@@ -22,7 +22,8 @@
         "link": "github.com/bentoml/OpenLLM",
         "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
         "label": ["LLM", "NLP", "Text Generation"]
-      }
+      },
+      "url": "/new_deployment?bento_repo=bentoml/nousresearch--llama-2-7b-hf-service&recommendation_configs=%7B%22services%22%3A%7B%22llm-llama-runner%22%3A%7B%22instance_type%22%3A%22gpu.t4.1%22%7D%7D%7D"
     },
     {
       "org_name": "bentoml",
