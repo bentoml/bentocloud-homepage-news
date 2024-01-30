@@ -28,7 +28,7 @@
     {
       "org_name": "bentoml",
       "repo_name": "svd_service",
-      "versions": ["s6kjquf3egjuajyp"],
+      "versions": ["zqmrysv6v6ji4n7f"],
       "description": {
         "name": "Stable Video Diffusion",
         "text": "An generative video application, powered by diffusers and Stable Video Diffusion (SVD).",
