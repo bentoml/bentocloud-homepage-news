@@ -51,8 +51,8 @@
     },
     {
       "org_name": "bentoml",
-      "repo_name": "bento_whisper_x",
-      "versions": ["oknjx2v3vsudmiiq"],
+      "repo_name": "bento_whisperx",
+      "versions": ["ao7omlf62gxkjo6a"],
       "description": {
         "name": "Whisper X",
         "text": "A text generation application based on Whisper X model.",
