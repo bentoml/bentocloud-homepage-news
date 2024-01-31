@@ -51,8 +51,8 @@
     },
     {
       "org_name": "bentoml",
-      "repo_name": "bento_whisperx",
-      "versions": ["ao7omlf62gxkjo6a"],
+      "repo_name": "whisperx",
+      "versions": ["yyqq7bv75orgqusu"],
       "description": {
         "name": "Whisper X",
         "text": "A text generation application based on Whisper X model.",
@@ -92,7 +92,7 @@
       "description": {
         "name": "Latent Consistency",
         "text": "A latent consistency application based on Latent Consistency model.",
-        "link": "github.com/bentoml/BentoLatentConsistency",
+        "link": "github.com/bentoml/BentoLCM",
         "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
         "label": ["NLP"]
       }
