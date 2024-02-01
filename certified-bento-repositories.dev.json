@@ -3,13 +3,15 @@
     {
       "org_name": "default",
       "repo_name": "iris_classifier",
-      "versions": ["plqi6lfrhc7mtduh"],
       "description": {
         "name": "Iris Classifier",
         "text": "A simple iris classifier.",
         "link": "",
         "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
-        "label": []
+        "label": [],
+        "recommendation_configs": {
+          "services": { "iris_clf": { "instance_type": "cpu.2" } }
+        }
       }
     }
   ]
