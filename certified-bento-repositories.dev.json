@@ -1,9 +1,9 @@
 {
   "certified_bentos": [
     {
-      "org_name": "bentoml",
-      "repo_name": "ci_iris",
-      "versions": ["nh3bbcf4fc6c6usu"],
+      "org_name": "default",
+      "repo_name": "iris_classifier",
+      "versions": ["plqi6lfrhc7mtduh"],
       "description": {
         "name": "Iris Classifier",
         "text": "A simple iris classifier.",
