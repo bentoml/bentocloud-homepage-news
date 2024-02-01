@@ -1,0 +1,113 @@
+{
+  "certified_bentos": [
+    {
+      "org_name": "bentoml",
+      "repo_name": "nousresearch--llama-2-13b-hf-service",
+      "versions": ["b0491461253755d8c60bf22f0d696b9e337c6375"],
+      "description": {
+        "name": "Llama2 13b",
+        "text": "Chat Service based on Meta Llama 2 13b (half-precision) model.",
+        "link": "github.com/bentoml/OpenLLM",
+        "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
+        "label": ["🧠LLM", "✍️Text Generation"]
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "nousresearch--llama-2-7b-hf-service",
+      "versions": ["dacdfcde31297e34b19ee0e7532f29586d2c17bc"],
+      "description": {
+        "name": "Llama2 7b",
+        "text": "Chat Service based on Meta Llama 2 7b (half-precision) model.",
+        "link": "github.com/bentoml/OpenLLM",
+        "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
+        "label": ["🧠LLM", "✍️Text Generation"]
+      },
+      "url": "/new_deployment?bento_repo=bentoml/nousresearch--llama-2-7b-hf-service&recommendation_configs=%7B%22services%22%3A%7B%22llm-llama-runner%22%3A%7B%22instance_type%22%3A%22gpu.t4.1%22%7D%7D%7D"
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "svd_service",
+      "versions": ["zqmrysv6v6ji4n7f"],
+      "description": {
+        "name": "Stable Video Diffusion",
+        "text": "An generative video application, powered by diffusers and Stable Video Diffusion (SVD).",
+        "link": "github.com/larme/BentoSVD",
+        "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
+        "label": ["🎬Video Generation"]
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "blip_image_captioning",
+      "versions": ["n3kssif3egubjq4b"],
+      "description": {
+        "name": "Blip Image Captioning",
+        "text": "An image captioning application on top of a BLIP model.",
+        "link": "github.com/bentoml/BentoBlip",
+        "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
+        "label": ["👁️Vision"]
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "whisperx",
+      "versions": ["yyqq7bv75orgqusu"],
+      "description": {
+        "name": "Whisper X",
+        "text": "A text generation application based on Whisper X model.",
+        "link": "github.com/bentoml/BentoWhisperX",
+        "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
+        "label": ["👂Audition"]
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "xtts",
+      "versions": ["mowsemf3kc3eyx4a"],
+      "description": {
+        "name": "XTTS",
+        "text": "A text-to-speech application based on XTTS model.",
+        "link": "github.com/bentoml/BentoXTTS",
+        "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
+        "label": ["🗣️TTS"]
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "sentence_embedding",
+      "versions": ["sfav45v3pk7pas7v"],
+      "description": {
+        "name": "Sentence Transformers",
+        "text": "A sentence embedding application based on Sentence Embedding model.",
+        "link": "github.com/bentoml/BentoSentenceEmbedding",
+        "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
+        "label": ["🕸️Embedding"]
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "latent_consistency",
+      "versions": ["apbpbhv3lgl5kh26"],
+      "description": {
+        "name": "Latent Consistency",
+        "text": "A latent consistency application based on Latent Consistency model.",
+        "link": "github.com/bentoml/BentoLCM",
+        "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
+        "label": ["🎨Image Generation"]
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "clip_service",
+      "versions": ["isytfef3kcyallk7"],
+      "description": {
+        "name": "CLIP",
+        "text": "A CLIP application based on CLIP model.",
+        "link": "github.com/bentoml/BentoCLIP",
+        "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
+        "label": ["👁️Vision", "🕸️Embedding"]
+      }
+    }
+  ]
+}
