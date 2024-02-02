@@ -174,7 +174,7 @@
         "text": "CLIP (Contrastive Language–Image Pre-training) is a machine learning model developed by OpenAI. It is versatile and excels in tasks like zero-shot learning, image classification, and image-text matching without needing specific training for each task.",
         "link": "github.com/bentoml/BentoCLIP",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/clip.png",
-        "label": ["🕸️ Embedding"]
+        "label": ["🕸️ Embedding", "🍱 Multi-Modal"]
       }
     }
   ]
