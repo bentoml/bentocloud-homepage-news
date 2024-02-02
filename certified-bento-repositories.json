@@ -4,8 +4,8 @@
       "org_name": "bentoml",
       "repo_name": "meta-llama--llama-2-13b-hf-service",
       "description": {
-        "name": "Llama2 13b",
-        "text": "Chat Service based on Meta Llama 2 13b (half-precision) model.",
+        "name": "Llama2 13B",
+        "text": "Llama 2 13B parameters large language model developed by Meta and served using vLLM and OpenLLM. It's designed for high throughput and fast inference, offering capabilities for streaming and compatibility with OpenAI's API.",
         "link": "github.com/bentoml/OpenLLM",
         "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
         "label": ["✍️ Text Generation"],
@@ -18,8 +18,8 @@
       "org_name": "bentoml",
       "repo_name": "meta-llama--llama-2-7b-hf-service",
       "description": {
-        "name": "Llama2 7b",
-        "text": "Chat Service based on Meta Llama 2 7b (half-precision) model.",
+        "name": "Llama2 7B",
+        "text": "Llama 2 7B parameters large language model developed by Meta and served using vLLM and OpenLLM. It's designed for high throughput and fast inference, offering capabilities for streaming and compatibility with OpenAI's API.",
         "link": "github.com/bentoml/OpenLLM",
         "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
         "label": ["✍️ Text Generation"],
@@ -30,12 +30,34 @@
     },
     {
       "org_name": "bentoml",
+      "repo_name": "vllm",
+      "description": {
+        "name": "Llama 7B with vLLM",
+        "text": "Llama 2 7B parameters large language model developed by Meta, served using the vLLM for state-of-the-art throughput, efficient management of attention key and value memory with PagedAttention, continuous batching of incoming requests, fast model execution with CUDA/HIP graph, quantization, and optimized CUDA kernels.",
+        "link": "github.com/bentoml/BentoVLLM",
+        "image": "vllm.png",
+        "label": ["✍️ Text Generation"]
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "controlnet",
+      "description": {
+        "name": "ControlNet",
+        "text": "ControlNet is a type of model for controlling image diffusion models by conditioning the model with an additional input image. There are many types of conditioning inputs (canny edge, user sketching, human pose, depth, and more) you can use to control a diffusion model.",
+        "link": "github.com/bentoml/BentoControlNet",
+        "image": "controlnet.png",
+        "label": ["🎨 Image Generation"]
+      }
+    },
+    {
+      "org_name": "bentoml",
       "repo_name": "stable_diffusion_video",
       "description": {
-        "name": "Stable Video Diffusion",
-        "text": "",
-        "link": "github.com/larme/BentoSVD",
-        "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
+        "name": "Stable Diffusion Video",
+        "text": "Foundation model for generative video based on the image model Stable Diffusion.",
+        "link": "github.com/bentoml/BentoSVD",
+        "image": "svd.gif",
         "label": ["🎬 Video Generation"]
       }
     },
@@ -55,20 +77,20 @@
       "repo_name": "sdxl_turbo",
       "description": {
         "name": "SDXL Turbo",
-        "text": "",
+        "text": "SDXL Turbo achieves state-of-the-art performance with a new distillation technology, enabling single-step image generation with unprecedented quality, reducing the required step count from 50 to just one.",
         "link": "github.com/bentoml/BentoSDXLTurbo",
-        "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
-        "label": ["🎬 Video Generation"]
+        "image": "sdxl.png",
+        "label": ["🎨 Image Generation"]
       }
     },
     {
       "org_name": "bentoml",
       "repo_name": "blip_image_captioning",
       "description": {
-        "name": "Blip Image Captioning",
-        "text": "An image captioning application on top of a BLIP model.",
+        "name": "BLIP",
+        "text": "BLIP is a model that is able to perform various multi-modal tasks including visual question answering, image-text retrieval (image-text matching), and image captioning.",
         "link": "github.com/bentoml/BentoBlip",
-        "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
+        "image": "blip.png",
         "label": ["👁️ Image-to-Text", "🕸️ Embedding"]
       }
     },
@@ -77,9 +99,9 @@
       "repo_name": "whisperx",
       "description": {
         "name": "Whisper X",
-        "text": "",
+        "text": "WhisperX provides fast automatic speech recognition (70x realtime with large-v2) with word-level timestamps and speaker diarization.",
         "link": "github.com/bentoml/BentoWhisperX",
-        "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
+        "image": "whisperx.png",
         "label": ["👂 Speech Recognition"]
       }
     },
@@ -88,9 +110,9 @@
       "repo_name": "xtts",
       "description": {
         "name": "XTTS",
-        "text": "A text-to-speech application based on XTTS model.",
+        "text": "High-performance Deep Learning models for Text2Speech tasks with support for 16 languages and multi-speakers.",
         "link": "github.com/bentoml/BentoXTTS",
-        "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
+        "image": "xtts.png",
         "label": ["🗣️ Text-to-Speech"]
       }
     },
@@ -99,7 +121,7 @@
       "repo_name": "sentence_embedding",
       "description": {
         "name": "Sentence Transformers",
-        "text": "A sentence embedding application based on Sentence Embedding model.",
+        "text": "A sentence transformers model, all-MiniLM-L6-v2, that maps sentences & paragraphs to a 384 dimensional dense vector space and can be used for tasks like clustering or semantic search.",
         "link": "github.com/bentoml/BentoSentenceEmbedding",
         "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
         "label": ["🕸️ Embedding"]
@@ -109,22 +131,22 @@
       "org_name": "bentoml",
       "repo_name": "latent_consistency",
       "description": {
-        "name": "Latent Consistency",
-        "text": "A latent consistency application based on Latent Consistency model.",
+        "name": "LCM",
+        "text": "Latent Consistency Models (LCMs) are able to generate high-quality images in just a few steps, representing a big leap forward because many pipelines require at least 25+ steps.",
         "link": "github.com/bentoml/BentoLCM",
-        "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
+        "image": "lcm.png",
         "label": ["🎨 Image Generation"]
       }
     },
     {
       "org_name": "bentoml",
-      "repo_name": "clip_service",
+      "repo_name": "clip",
       "description": {
         "name": "CLIP",
-        "text": "A CLIP application based on CLIP model.",
+        "text": "CLIP (Contrastive Language–Image Pre-training) is a machine learning model developed by OpenAI. It is versatile and excels in tasks like zero-shot learning, image classification, and image-text matching without needing specific training for each task.",
         "link": "github.com/bentoml/BentoCLIP",
         "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
-        "label": ["👁️ Image-to-Text", "🕸️ Embedding"]
+        "label": ["🕸️ Embedding"]
       }
     }
   ]
