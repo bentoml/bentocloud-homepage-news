@@ -24,7 +24,35 @@
         "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
         "label": ["✍️ Text Generation"],
         "recommendation_configs": {
-          "services": { "llm-llama-runner": { "instance_type": "gpu.t4.1" } }
+          "services": { "llm-llama-runner": { "instance_type": "gpu.l4.1" } }
+        }
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "thebloke--mixtral-8x7b-v0.1-gptq-service",
+      "description": {
+        "name": "OpenLLM Mixtral 8x7B",
+        "text": "High quality sparse mixture of experts model (SMoE) developed by Mistral and served using vLLM and OpenLLM. It's designed for high throughput and fast inference, offering capabilities for streaming and compatibility with OpenAI's API.",
+        "link": "github.com/bentoml/OpenLLM",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mixtral8-7b.png",
+        "label": ["✍️ Text Generation"],
+        "recommendation_configs": {
+          "services": { "llm-llama-runner": { "instance_type": "gpu.a100.1" } }
+        }
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "mistralai--mistral-7b-instruct-v0.2-service",
+      "description": {
+        "name": "OpenLLM Mistral 7B",
+        "text": "Mistral 7B parameters large language model developed by Mistral and served using vLLM and OpenLLM. It's designed for high throughput and fast inference, offering capabilities for streaming and compatibility with OpenAI's API.",
+        "link": "github.com/bentoml/OpenLLM",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mixtral7b.png",
+        "label": ["✍️ Text Generation"],
+        "recommendation_configs": {
+          "services": { "llm-llama-runner": { "instance_type": "gpu.l4.1" } }
         }
       }
     },
@@ -118,7 +146,7 @@
     },
     {
       "org_name": "bentoml",
-      "repo_name": "sentence_embedding",
+      "repo_name": "sentence_transformers",
       "description": {
         "name": "Sentence Transformers",
         "text": "A sentence transformers model, all-MiniLM-L6-v2, that maps sentences & paragraphs to a 384 dimensional dense vector space and can be used for tasks like clustering or semantic search.",
