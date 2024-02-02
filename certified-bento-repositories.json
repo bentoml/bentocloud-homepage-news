@@ -96,7 +96,7 @@
         "name": "Stable Diffusion 2",
         "text": "Stable Diffusion is a deep learning, text-to-image model based on diffusion techniques. Stable Diffusion 2.0 delivers several big improvements and features including a new text-to-image diffusion models, super-resolution upscaler diffusion models, depth-to-image diffusion model, and updated inpainting diffusion model.",
         "link": "github.com/bentoml/BentoSD2Upscaler",
-        "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/sd2.png",
         "label": ["🎨 Image Generation"]
       }
     },
@@ -173,7 +173,7 @@
         "name": "CLIP",
         "text": "CLIP (Contrastive Language–Image Pre-training) is a machine learning model developed by OpenAI. It is versatile and excels in tasks like zero-shot learning, image classification, and image-text matching without needing specific training for each task.",
         "link": "github.com/bentoml/BentoCLIP",
-        "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/clip.png",
         "label": ["🕸️ Embedding"]
       }
     }
