@@ -52,7 +52,7 @@
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mixtral7b.png",
         "label": ["✍️ Text Generation"],
         "recommendation_configs": {
-          "services": { "llm-mixtral-runner": { "instance_type": "gpu.l4.1" } }
+          "services": { "llm-mistral-runner": { "instance_type": "gpu.l4.1" } }
         }
       }
     },
