@@ -69,7 +69,7 @@
     },
     {
       "org_name": "bentoml",
-      "repo_name": "controlnet",
+      "repo_name": "control_net",
       "description": {
         "name": "ControlNet",
         "text": "ControlNet is a type of model for controlling image diffusion models by conditioning the model with an additional input image. There are many types of conditioning inputs (canny edge, user sketching, human pose, depth, and more) you can use to control a diffusion model.",
