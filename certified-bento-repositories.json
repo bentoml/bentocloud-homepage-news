@@ -94,7 +94,7 @@
       "repo_name": "stable_diffusion2",
       "description": {
         "name": "Stable Diffusion 2",
-        "text": "",
+        "text": "Stable Diffusion is a deep learning, text-to-image model based on diffusion techniques. Stable Diffusion 2.0 delivers several big improvements and features including a new text-to-image diffusion models, super-resolution upscaler diffusion models, depth-to-image diffusion model, and updated inpainting diffusion model.",
         "link": "github.com/bentoml/BentoSD2Upscaler",
         "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
         "label": ["🎨 Image Generation"]
