@@ -150,7 +150,7 @@
       "description": {
         "name": "Sentence Transformers",
         "text": "A sentence transformers model, all-MiniLM-L6-v2, that maps sentences & paragraphs to a 384 dimensional dense vector space and can be used for tasks like clustering or semantic search.",
-        "link": "github.com/bentoml/BentoSentenceEmbedding",
+        "link": "https://github.com/bentoml/BentoSentenceTransformers",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/st.png",
         "label": ["🕸️ Embedding"]
       }
