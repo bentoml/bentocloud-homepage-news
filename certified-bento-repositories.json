@@ -44,10 +44,7 @@
         "text": "Mistral 7B parameters large language model developed by Mistral and served using vLLM and BentoML. It's designed for high throughput and fast inference, offering capabilities for streaming and compatibility with OpenAI's API.",
         "link": "github.com/bentoml/BentoVLLM",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mixtral7b.png",
-        "label": ["✍️ Text Generation"],
-        "recommendation_configs": {
-          "services": { "llm-mistral-runner": { "instance_type": "gpu.l4.1" } }
-        }
+        "label": ["✍️ Text Generation"]
       }
     },
     {
