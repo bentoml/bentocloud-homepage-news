@@ -22,10 +22,7 @@
         "text": "Llama 2 7B parameters large language model developed by Meta and served using vLLM and OpenLLM. It's designed for high throughput and fast inference, offering capabilities for streaming and compatibility with OpenAI's API.",
         "link": "github.com/bentoml/OpenLLM",
         "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
-        "label": ["✍️ Text Generation"],
-        "recommendation_configs": {
-          "services": { "llm-llama-runner": { "instance_type": "gpu.l4.1" } }
-        }
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -36,10 +33,7 @@
         "text": "High quality sparse mixture of experts model (SMoE) developed by Mistral and served using vLLM and BentoML. It's designed for high throughput and fast inference, offering capabilities for streaming and compatibility with OpenAI's API.",
         "link": "github.com/bentoml/BentoVLLM",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mixtral8-7b.png",
-        "label": ["✍️ Text Generation"],
-        "recommendation_configs": {
-          "services": { "llm-mixtral-runner": { "instance_type": "gpu.a100.1" } }
-        }
+        "label": ["✍️ Text Generation"]
       }
     },
     {
