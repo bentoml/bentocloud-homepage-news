@@ -1,49 +1,58 @@
 {
-  {
-    "org_name": "bentoml",
-    "repo_name": "bentovllm-llama2-7b-chat-service",
-    "description": {
-      "name": "Llama2 7B",
-      "text": "Llama 2 7B parameters large language model developed by Meta and served using vLLM and BentoML. It's designed for high throughput and fast inference, offering capabilities for streaming and compatibility with OpenAI's API.",
-      "link": "github.com/bentoml/BentoVLLM",
-      "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
-      "label": ["✍️ Text Generation"]
-    }
-  },
-  {
-    "org_name": "bentoml",
-    "repo_name": "mixtral-8x7b-instruct-gptq-service",
-    "description": {
-      "name": "Mixtral 8x7B",
-      "text": "High quality sparse mixture of experts model (SMoE) developed by Mistral and served using vLLM and BentoML. It's designed for high throughput and fast inference, offering capabilities for streaming and compatibility with OpenAI's API.",
-      "link": "github.com/bentoml/BentoVLLM",
-      "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mixtral8-7b.png",
-      "label": ["✍️ Text Generation"]
-    }
-  },
-  {
-    "org_name": "bentoml",
-    "repo_name": "mistral-7b-instruct-service",
-    "description": {
-      "name": "Mistral 7B",
-      "text": "Mistral 7B parameters large language model developed by Mistral and served using vLLM and BentoML. It's designed for high throughput and fast inference, offering capabilities for streaming and compatibility with OpenAI's API.",
-      "link": "github.com/bentoml/BentoVLLM",
-      "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mixtral7b.png",
-      "label": ["✍️ Text Generation"]
-    }
-  },
-  {
-    "org_name": "bentoml",
-    "repo_name": "bentovllm-solar-instruct-service",
-    "description": {
-      "name": "Solar 10.7B",
-      "text": "Solar 10.7B parameters large language model developed by Upstage and served using vLLM and BentoML. It's designed for high throughput and fast inference, offering capabilities for streaming and compatibility with OpenAI's API.",
-      "link": "github.com/bentoml/BentoVLLM",
-      "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/solar10.7b.png",
-      "label": ["✍️ Text Generation"]
-    }
-  },
-  {
+  "certified_bentos": [
+    {
+      "org_name": "bentoml",
+      "repo_name": "bentovllm-llama2-7b-chat-service",
+      "description": {
+        "name": "Llama2 7B",
+        "text": "Llama 2 7B parameters large language model developed by Meta and served using vLLM and BentoML. It's designed for high throughput and fast inference, offering capabilities for streaming and compatibility with OpenAI's API.",
+        "link": "github.com/bentoml/BentoVLLM",
+        "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
+        "label": [
+          "✍️ Text Generation"
+        ]
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "mixtral-8x7b-instruct-gptq-service",
+      "description": {
+        "name": "Mixtral 8x7B",
+        "text": "High quality sparse mixture of experts model (SMoE) developed by Mistral and served using vLLM and BentoML. It's designed for high throughput and fast inference, offering capabilities for streaming and compatibility with OpenAI's API.",
+        "link": "github.com/bentoml/BentoVLLM",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mixtral8-7b.png",
+        "label": [
+          "✍️ Text Generation"
+        ]
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "mistral-7b-instruct-service",
+      "description": {
+        "name": "Mistral 7B",
+        "text": "Mistral 7B parameters large language model developed by Mistral and served using vLLM and BentoML. It's designed for high throughput and fast inference, offering capabilities for streaming and compatibility with OpenAI's API.",
+        "link": "github.com/bentoml/BentoVLLM",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mixtral7b.png",
+        "label": [
+          "✍️ Text Generation"
+        ]
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "bentovllm-solar-instruct-service",
+      "description": {
+        "name": "Solar 10.7B",
+        "text": "Solar 10.7B parameters large language model developed by Upstage and served using vLLM and BentoML. It's designed for high throughput and fast inference, offering capabilities for streaming and compatibility with OpenAI's API.",
+        "link": "github.com/bentoml/BentoVLLM",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/solar10.7b.png",
+        "label": [
+          "✍️ Text Generation"
+        ]
+      }
+    },
+    {
       "org_name": "bentoml",
       "repo_name": "control_net",
       "description": {
@@ -51,7 +60,9 @@
         "text": "ControlNet is a type of model for controlling image diffusion models by conditioning the model with an additional input image. There are many types of conditioning inputs (canny edge, user sketching, human pose, depth, and more) you can use to control a diffusion model.",
         "link": "github.com/bentoml/BentoControlNet",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/controlnet.png",
-        "label": ["🎨 Image Generation"]
+        "label": [
+          "🎨 Image Generation"
+        ]
       }
     },
     {
@@ -62,7 +73,9 @@
         "text": "Foundation model for generative video based on the image model Stable Diffusion.",
         "link": "github.com/bentoml/BentoSVD",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/svd.gif",
-        "label": ["🎬 Video Generation"]
+        "label": [
+          "🎬 Video Generation"
+        ]
       }
     },
     {
@@ -73,7 +86,9 @@
         "text": "Stable Diffusion is a deep learning, text-to-image model based on diffusion techniques. Stable Diffusion 2.0 delivers several big improvements and features including a new text-to-image diffusion models, super-resolution upscaler diffusion models, depth-to-image diffusion model, and updated inpainting diffusion model.",
         "link": "github.com/bentoml/BentoSD2Upscaler",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/sd2.png",
-        "label": ["🎨 Image Generation"]
+        "label": [
+          "🎨 Image Generation"
+        ]
       }
     },
     {
@@ -84,7 +99,9 @@
         "text": "SDXL Turbo achieves state-of-the-art performance with a new distillation technology, enabling single-step image generation with unprecedented quality, reducing the required step count from 50 to just one.",
         "link": "github.com/bentoml/BentoSDXLTurbo",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/sdxl.png",
-        "label": ["🎨 Image Generation"]
+        "label": [
+          "🎨 Image Generation"
+        ]
       }
     },
     {
@@ -95,7 +112,10 @@
         "text": "BLIP is a model that is able to perform various multi-modal tasks including visual question answering, image-text retrieval (image-text matching), and image captioning.",
         "link": "github.com/bentoml/BentoBlip",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/blip.png",
-        "label": ["👁️ Image-to-Text", "🕸️ Embedding"]
+        "label": [
+          "👁️ Image-to-Text",
+          "🕸️ Embedding"
+        ]
       }
     },
     {
@@ -106,7 +126,9 @@
         "text": "WhisperX provides fast automatic speech recognition (70x realtime with large-v2) with word-level timestamps and speaker diarization.",
         "link": "github.com/bentoml/BentoWhisperX",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/whisperx.png",
-        "label": ["👂 Speech Recognition"]
+        "label": [
+          "👂 Speech Recognition"
+        ]
       }
     },
     {
@@ -117,7 +139,9 @@
         "text": "High-performance Deep Learning models for Text2Speech tasks with support for 16 languages and multi-speakers.",
         "link": "github.com/bentoml/BentoXTTS",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/xtts.png",
-        "label": ["🗣️ Text-to-Speech"]
+        "label": [
+          "🗣️ Text-to-Speech"
+        ]
       }
     },
     {
@@ -128,7 +152,9 @@
         "text": "A sentence transformers model, all-MiniLM-L6-v2, that maps sentences & paragraphs to a 384 dimensional dense vector space and can be used for tasks like clustering or semantic search.",
         "link": "github.com/bentoml/BentoSentenceEmbedding",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/st.png",
-        "label": ["🕸️ Embedding"]
+        "label": [
+          "🕸️ Embedding"
+        ]
       }
     },
     {
@@ -139,7 +165,9 @@
         "text": "Latent Consistency Models (LCMs) are able to generate high-quality images in just a few steps, representing a big leap forward because many pipelines require at least 25+ steps.",
         "link": "github.com/bentoml/BentoLCM",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/lcm.png",
-        "label": ["🎨 Image Generation"]
+        "label": [
+          "🎨 Image Generation"
+        ]
       }
     },
     {
@@ -150,7 +178,9 @@
         "text": "CLIP (Contrastive Language–Image Pre-training) is a machine learning model developed by OpenAI. It is versatile and excels in tasks like zero-shot learning, image classification, and image-text matching without needing specific training for each task.",
         "link": "github.com/bentoml/BentoCLIP",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/clip.png",
-        "label": ["🕸️ Embedding"]
+        "label": [
+          "🕸️ Embedding"
+        ]
       }
     }
   ]
