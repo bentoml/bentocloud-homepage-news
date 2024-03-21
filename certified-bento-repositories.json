@@ -62,17 +62,6 @@
     },
     {
       "org_name": "bentoml",
-      "repo_name": "vllm",
-      "description": {
-        "name": "Llama 7B with vLLM",
-        "text": "Llama 2 7B parameters large language model developed by Meta, served using the vLLM for state-of-the-art throughput, efficient management of attention key and value memory with PagedAttention, continuous batching of incoming requests, fast model execution with CUDA/HIP graph, quantization, and optimized CUDA kernels.",
-        "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/vllm.png",
-        "label": ["✍️ Text Generation"]
-      }
-    },
-    {
-      "org_name": "bentoml",
       "repo_name": "control_net",
       "description": {
         "name": "ControlNet",
