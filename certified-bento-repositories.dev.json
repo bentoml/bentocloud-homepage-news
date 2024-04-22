@@ -2,9 +2,20 @@
   "certified_bentos": [
     {
       "org_name": "bentoml",
+      "repo_name": "bentovllm-llama3-8b-insruct-service",
+      "description": {
+        "name": "Llama3 8B Instruct",
+        "text": "Llama 3 8B parameters large language model developed by Meta and served using vLLM and BentoML. It's designed for high throughput and fast inference, offering capabilities for streaming and compatibility with OpenAI's API.",
+        "link": "github.com/bentoml/BentoVLLM",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
+        "label": ["✍️ Text Generation"]
+      }
+    },
+    {
+      "org_name": "bentoml",
       "repo_name": "bentovllm-llama2-7b-chat-service",
       "description": {
-        "name": "Llama2 7B",
+        "name": "Llama2 7B Chat",
         "text": "Llama 2 7B parameters large language model developed by Meta and served using vLLM and BentoML. It's designed for high throughput and fast inference, offering capabilities for streaming and compatibility with OpenAI's API.",
         "link": "github.com/bentoml/BentoVLLM",
         "image": "https://www.bentoml.com/_next/image?url=https%3A%2F%2Fadmin.bentoml.com%2Fuploads%2Fopenllm_45bf9acac5.jpg&w=640&q=75",
@@ -17,7 +28,7 @@
       "org_name": "bentoml",
       "repo_name": "mixtral-8x7b-instruct-gptq-service",
       "description": {
-        "name": "Mixtral 8x7B",
+        "name": "Mixtral 8x7B Instruct",
         "text": "High quality sparse mixture of experts model (SMoE) developed by Mistral and served using vLLM and BentoML. It's designed for high throughput and fast inference, offering capabilities for streaming and compatibility with OpenAI's API.",
         "link": "github.com/bentoml/BentoVLLM",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mixtral8-7b.png",
@@ -30,7 +41,7 @@
       "org_name": "bentoml",
       "repo_name": "mistral-7b-instruct-service",
       "description": {
-        "name": "Mistral 7B",
+        "name": "Mistral 7B Instrut",
         "text": "Mistral 7B parameters large language model developed by Mistral and served using vLLM and BentoML. It's designed for high throughput and fast inference, offering capabilities for streaming and compatibility with OpenAI's API.",
         "link": "github.com/bentoml/BentoVLLM",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mixtral7b.png",
@@ -43,7 +54,7 @@
       "org_name": "bentoml",
       "repo_name": "bentovllm-solar-instruct-service",
       "description": {
-        "name": "Solar 10.7B",
+        "name": "Solar 10.7B Instruct",
         "text": "Solar 10.7B parameters large language model developed by Upstage and served using vLLM and BentoML. It's designed for high throughput and fast inference, offering capabilities for streaming and compatibility with OpenAI's API.",
         "link": "github.com/bentoml/BentoVLLM",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/solar10.7b.png",
