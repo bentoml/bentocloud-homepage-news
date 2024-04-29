@@ -2,6 +2,17 @@
   "certified_bentos": [
     {
       "org_name": "bentoml",
+      "repo_name": "bentovllm-llama3-70b-insruct-awq-service",
+      "description": {
+        "name": "Llama3 70B Instruct with AWQ quantization",
+        "text": "Llama 3 70B parameters large language model developed by Meta and served using vLLM and BentoML with AWQ quantization. It offers capabilities for streaming and compatibility with OpenAI's API.",
+        "link": "github.com/bentoml/BentoVLLM",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-70b-awq.png",
+        "label": ["✍️ Text Generation"]
+      }
+    },
+    {
+      "org_name": "bentoml",
       "repo_name": "bentovllm-llama3-8b-insruct-service",
       "description": {
         "name": "Llama3 8B Instruct",
