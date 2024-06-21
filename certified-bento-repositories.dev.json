@@ -80,7 +80,7 @@
       "description": {
         "name": "ControlNet",
         "text": "ControlNet is a type of model for controlling image diffusion models by conditioning the model with an additional input image. There are many types of conditioning inputs (canny edge, user sketching, human pose, depth, and more) you can use to control a diffusion model.",
-        "link": "github.com/bentoml/BentoControlNet",
+        "link": "github.com/bentoml/BentoDiffusion",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/controlnet.png",
         "label": [
           "🎨 Image Generation"
@@ -93,7 +93,7 @@
       "description": {
         "name": "Stable Diffusion Video",
         "text": "Foundation model for generative video based on the image model Stable Diffusion.",
-        "link": "github.com/bentoml/BentoSVD",
+        "link": "github.com/bentoml/BentoDiffusion",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/svd.gif",
         "label": [
           "🎬 Video Generation"
@@ -106,7 +106,7 @@
       "description": {
         "name": "Stable Diffusion 2",
         "text": "Stable Diffusion is a deep learning, text-to-image model based on diffusion techniques. Stable Diffusion 2.0 delivers several big improvements and features including a new text-to-image diffusion models, super-resolution upscaler diffusion models, depth-to-image diffusion model, and updated inpainting diffusion model.",
-        "link": "github.com/bentoml/BentoSD2Upscaler",
+        "link": "github.com/bentoml/BentoDiffusion",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/sd2.png",
         "label": [
           "🎨 Image Generation"
@@ -119,7 +119,7 @@
       "description": {
         "name": "SDXL Turbo",
         "text": "SDXL Turbo achieves state-of-the-art performance with a new distillation technology, enabling single-step image generation with unprecedented quality, reducing the required step count from 50 to just one.",
-        "link": "github.com/bentoml/BentoSDXLTurbo",
+        "link": "github.com/bentoml/BentoDiffusion",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/sdxl.png",
         "label": [
           "🎨 Image Generation"
@@ -185,7 +185,7 @@
       "description": {
         "name": "LCM",
         "text": "Latent Consistency Models (LCMs) are able to generate high-quality images in just a few steps, representing a big leap forward because many pipelines require at least 25+ steps.",
-        "link": "github.com/bentoml/BentoLCM",
+        "link": "github.com/bentoml/BentoDiffuion",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/lcm.png",
         "label": [
           "🎨 Image Generation"
