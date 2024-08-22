@@ -24,7 +24,7 @@
     },
     {
       "org_name": "bentoml",
-      "repo_name": "bentovllm-llama3.1-8b-instruct-awq-service",
+      "repo_name": "bentovllm-llama3.1-8b-instruct-service",
       "description": {
         "name": "Llama3.1 8B Instruct",
         "text": "Llama 3.1 8B parameters large language model developed by Meta and served using vLLM and BentoML with AWQ quantization. It offers capabilities for streaming and compatibility with OpenAI's API.",
