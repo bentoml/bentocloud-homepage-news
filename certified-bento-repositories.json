@@ -2,7 +2,7 @@
   "certified_bentos": [
     {
       "org_name": "bentoml",
-      "repo_name": "bentovllm-llama3.1-405b-insruct-awq-service",
+      "repo_name": "bentovllm-llama3.1-405b-instruct-awq-service",
       "description": {
         "name": "Llama3 405B Instruct with AWQ quantization",
         "text": "Llama 3 405B parameters large language model developed by Meta and served using vLLM and BentoML with AWQ quantization. It offers capabilities for streaming and compatibility with OpenAI's API.",
@@ -13,7 +13,7 @@
     },
     {
       "org_name": "bentoml",
-      "repo_name": "bentovllm-llama3.1-70b-insruct-awq-service",
+      "repo_name": "bentovllm-llama3.1-70b-instruct-awq-service",
       "description": {
         "name": "Llama3 70B Instruct with AWQ quantization",
         "text": "Llama 3 70B parameters large language model developed by Meta and served using vLLM and BentoML with AWQ quantization. It offers capabilities for streaming and compatibility with OpenAI's API.",
@@ -24,7 +24,7 @@
     },
     {
       "org_name": "bentoml",
-      "repo_name": "bentovllm-llama3.1-8b-insruct-awq-service",
+      "repo_name": "bentovllm-llama3.1-8b-instruct-awq-service",
       "description": {
         "name": "Llama3 8B Instruct",
         "text": "Llama 3 8B parameters large language model developed by Meta and served using vLLM and BentoML with AWQ quantization. It offers capabilities for streaming and compatibility with OpenAI's API.",
@@ -35,7 +35,7 @@
     },
     {
       "org_name": "bentoml",
-      "repo_name": "bentovllm-llama3-70b-insruct-awq-service",
+      "repo_name": "bentovllm-llama3-70b-instruct-awq-service",
       "description": {
         "name": "Llama3 70B Instruct with AWQ quantization",
         "text": "Llama 3 70B parameters large language model developed by Meta and served using vLLM and BentoML with AWQ quantization. It offers capabilities for streaming and compatibility with OpenAI's API.",
@@ -46,7 +46,7 @@
     },
     {
       "org_name": "bentoml",
-      "repo_name": "bentovllm-llama3-8b-insruct-service",
+      "repo_name": "bentovllm-llama3-8b-instruct-service",
       "description": {
         "name": "Llama3 8B Instruct",
         "text": "Llama 3 8B parameters large language model developed by Meta and served using vLLM and BentoML. It's designed for high throughput and fast inference, offering capabilities for streaming and compatibility with OpenAI's API.",
