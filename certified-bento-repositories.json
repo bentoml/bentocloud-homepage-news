@@ -183,7 +183,7 @@
         "name": "DeepSeek R1 Distill Llama 3.1 8B",
         "text": "DeepSeek R1 Distill Llama 3.1 8B developed by DeepSeek and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/madeepseek.png",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/deepseek.png",
         "label": ["✍️ Text Generation"]
       }
     },
