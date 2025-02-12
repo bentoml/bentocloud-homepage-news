@@ -8,9 +8,7 @@
         "text": "ControlNet is a type of model for controlling image diffusion models by conditioning the model with an additional input image. There are many types of conditioning inputs (canny edge, user sketching, human pose, depth, and more) you can use to control a diffusion model.",
         "link": "github.com/bentoml/BentoDiffusion",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/controlnet.png",
-        "label": [
-          "🎨 Image Generation"
-        ]
+        "label": ["🎨 Image Generation"]
       }
     },
     {
@@ -21,9 +19,7 @@
         "text": "Foundation model for generative video based on the image model Stable Diffusion.",
         "link": "github.com/bentoml/BentoDiffusion",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/svd.gif",
-        "label": [
-          "🎬 Video Generation"
-        ]
+        "label": ["🎬 Video Generation"]
       }
     },
     {
@@ -34,9 +30,7 @@
         "text": "Stable Diffusion is a deep learning, text-to-image model based on diffusion techniques. Stable Diffusion 2.0 delivers several big improvements and features including a new text-to-image diffusion models, super-resolution upscaler diffusion models, depth-to-image diffusion model, and updated inpainting diffusion model.",
         "link": "github.com/bentoml/BentoDiffusion",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/sd2.png",
-        "label": [
-          "🎨 Image Generation"
-        ]
+        "label": ["🎨 Image Generation"]
       }
     },
     {
@@ -47,9 +41,7 @@
         "text": "SDXL Turbo achieves state-of-the-art performance with a new distillation technology, enabling single-step image generation with unprecedented quality, reducing the required step count from 50 to just one.",
         "link": "github.com/bentoml/BentoDiffusion",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/sdxl.png",
-        "label": [
-          "🎨 Image Generation"
-        ]
+        "label": ["🎨 Image Generation"]
       }
     },
     {
@@ -60,10 +52,7 @@
         "text": "BLIP is a model that is able to perform various multi-modal tasks including visual question answering, image-text retrieval (image-text matching), and image captioning.",
         "link": "github.com/bentoml/BentoBlip",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/blip.png",
-        "label": [
-          "👁️ Image-to-Text",
-          "🕸️ Embedding"
-        ]
+        "label": ["👁️ Image-to-Text", "🕸️ Embedding"]
       }
     },
     {
@@ -74,9 +63,7 @@
         "text": "WhisperX provides fast automatic speech recognition (70x realtime with large-v2) with word-level timestamps and speaker diarization.",
         "link": "github.com/bentoml/BentoWhisperX",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/whisperx.png",
-        "label": [
-          "👂 Speech Recognition"
-        ]
+        "label": ["👂 Speech Recognition"]
       }
     },
     {
@@ -87,9 +74,7 @@
         "text": "High-performance Deep Learning models for Text2Speech tasks with support for 16 languages and multi-speakers.",
         "link": "github.com/bentoml/BentoXTTS",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/xtts.png",
-        "label": [
-          "🗣️ Text-to-Speech"
-        ]
+        "label": ["🗣️ Text-to-Speech"]
       }
     },
     {
@@ -100,9 +85,7 @@
         "text": "A sentence transformers model, all-MiniLM-L6-v2, that maps sentences & paragraphs to a 384 dimensional dense vector space and can be used for tasks like clustering or semantic search.",
         "link": "github.com/bentoml/BentoSentenceTransformers",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/st.png",
-        "label": [
-          "🕸️ Embedding"
-        ]
+        "label": ["🕸️ Embedding"]
       }
     },
     {
@@ -113,9 +96,7 @@
         "text": "Latent Consistency Models (LCMs) are able to generate high-quality images in just a few steps, representing a big leap forward because many pipelines require at least 25+ steps.",
         "link": "github.com/bentoml/BentoDiffusion",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/lcm.png",
-        "label": [
-          "🎨 Image Generation"
-        ]
+        "label": ["🎨 Image Generation"]
       }
     },
     {
@@ -126,10 +107,7 @@
         "text": "CLIP (Contrastive Language–Image Pre-training) is a machine learning model developed by OpenAI. It is versatile and excels in tasks like zero-shot learning, image classification, and image-text matching without needing specific training for each task.",
         "link": "github.com/bentoml/BentoCLIP",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/clip.png",
-        "label": [
-          "🕸️ Embedding",
-          "🍱 Multi-Modal"
-        ]
+        "label": ["🕸️ Embedding", "🍱 Multi-Modal"]
       }
     },
     {
@@ -139,10 +117,8 @@
         "name": "DeepSeek V3 671B",
         "text": "DeepSeek V3 671B developed by DeepSeek and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/deepseek.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -152,10 +128,8 @@
         "name": "DeepSeek R1 671B",
         "text": "DeepSeek R1 671B developed by DeepSeek and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/deepseek.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -165,10 +139,8 @@
         "name": "DeepSeek R1 Distill Llama 3.3 70B",
         "text": "DeepSeek R1 Distill Llama 3.3 70B developed by DeepSeek and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/deepseek.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -178,10 +150,8 @@
         "name": "DeepSeek R1 Distill Qwen 2.5 32B",
         "text": "DeepSeek R1 Distill Qwen 2.5 32B developed by DeepSeek and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/deepseek.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -191,10 +161,8 @@
         "name": "DeepSeek R1 Distill Qwen 2.5 14B",
         "text": "DeepSeek R1 Distill Qwen 2.5 14B developed by DeepSeek and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/deepseek.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -204,10 +172,8 @@
         "name": "DeepSeek R1 Distill Qwen 2.5 Math 7B",
         "text": "DeepSeek R1 Distill Qwen 2.5 Math 7B developed by DeepSeek and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/deepseek.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -217,10 +183,8 @@
         "name": "DeepSeek R1 Distill Llama 3.1 8B",
         "text": "DeepSeek R1 Distill Llama 3.1 8B developed by DeepSeek and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/madeepseek.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -230,10 +194,8 @@
         "name": "DeepSeek R1 Distill Llama 3.1 8B Tool Calling",
         "text": "DeepSeek R1 Distill Llama 3.1 8B Tool Calling developed by DeepSeek and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/deepseek.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -243,10 +205,8 @@
         "name": "Gemma 2 2B Instruct",
         "text": "Gemma 2 2B Instruct developed by Google and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/google.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -256,10 +216,8 @@
         "name": "Gemma 2 9B Instruct",
         "text": "Gemma 2 9B Instruct developed by Google and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/google.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -269,10 +227,8 @@
         "name": "Gemma 2 27B Instruct",
         "text": "Gemma 2 27B Instruct developed by Google and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/google.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -282,10 +238,8 @@
         "name": "Jamba 1.5 Mini",
         "text": "Jamba 1.5 Mini developed by AI21 Lab and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/ai21.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -295,10 +249,8 @@
         "name": "Llama 3.1 8B Instruct",
         "text": "Llama 3.1 8B Instruct developed by Meta and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/meta.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -308,10 +260,8 @@
         "name": "Llama 3.2 1B Instruct",
         "text": "Llama 3.2 1B Instruct developed by Meta and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/meta.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -321,10 +271,8 @@
         "name": "Llama 3.1 3B Instruct",
         "text": "Llama 3.1 3B Instruct developed by Meta and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/meta.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -334,11 +282,8 @@
         "name": "Llama 3.2 11B Vision Instruct",
         "text": "Llama 3.2 11B Vision Instruct developed by Meta and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation",
-          "👁️ Image-to-Text"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/meta.png",
+        "label": ["✍️ Text Generation", "👁️ Image-to-Text"]
       }
     },
     {
@@ -348,11 +293,8 @@
         "name": "Llama 3.2 90B Vision Instruct",
         "text": "Llama 3.2 90B Vision Instruct developed by Meta and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation",
-          "👁️ Image-to-Text"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/meta.png",
+        "label": ["✍️ Text Generation", "👁️ Image-to-Text"]
       }
     },
     {
@@ -362,10 +304,8 @@
         "name": "Llama 3.3 70B Instruct",
         "text": "Llama 3.3 70B Instruct developed by Meta and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/meta.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -375,11 +315,8 @@
         "name": "Pixtral 12B 2409",
         "text": "Pixtral 12B 2409 developed by Mistral AI and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation",
-          "👁️ Image-to-Text"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mistral.png",
+        "label": ["✍️ Text Generation", "👁️ Image-to-Text"]
       }
     },
     {
@@ -389,10 +326,8 @@
         "name": "Mixtral 8x7B v0.1 Mixture of Expert",
         "text": "Mixtral 8x7B v0.1 Mixture of Expert developed by Mistral AI and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mistral.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -402,10 +337,8 @@
         "name": "Ministral 8B Instruct 2410",
         "text": "Ministral 8B Instruct 2410 developed by Mistral AI and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mistral.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -415,10 +348,8 @@
         "name": "Mistral Small 24B Instruct 2501",
         "text": "Mistral Small 24B Instruct 2501 developed by Mistral AI and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mistral.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -428,10 +359,8 @@
         "name": "Mistral Large 123B Instruct 2407",
         "text": "Mistral Large 123B Instruct 2407 developed by Mistral AI and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mistral.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -441,10 +370,8 @@
         "name": "Phi 4 14B",
         "text": "Phi 4 14B developed by Microsoft and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/microsoft.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -454,10 +381,8 @@
         "name": "Qwen 2.5 7B Instruct",
         "text": "Qwen 2.5 7B Instruct developed by Alibaba and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/alibaba.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -467,10 +392,8 @@
         "name": "Qwen 2.5 14B Instruct",
         "text": "Qwen 2.5 14B Instruct developed by Alibaba and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/alibaba.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -480,10 +403,8 @@
         "name": "Qwen 2.5 32B Instruct",
         "text": "Qwen 2.5 32B Instruct developed by Alibaba and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/alibaba.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -493,10 +414,8 @@
         "name": "Qwen 2.5 72B Instruct",
         "text": "Qwen 2.5 72B Instruct developed by Alibaba and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/alibaba.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -506,10 +425,8 @@
         "name": "Qwen 2.5 Coder 7B Instruct",
         "text": "Qwen 2.5 Coder 7B Instruct developed by Alibaba and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/alibaba.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -519,10 +436,8 @@
         "name": "Qwen 2.5 Coder 32B Instruct",
         "text": "Qwen 2.5 Coder 32B Instruct developed by Alibaba and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/alibaba.png",
+        "label": ["✍️ Text Generation"]
       }
     },
     {
@@ -532,11 +447,8 @@
         "name": "Qwen 2.5 Vision 3B Instruct",
         "text": "Qwen 2.5 Vision 3B Instruct developed by Alibaba and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation",
-          "👁️ Image-to-Text"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/alibaba.png",
+        "label": ["✍️ Text Generation", "👁️ Image-to-Text"]
       }
     },
     {
@@ -546,11 +458,8 @@
         "name": "Qwen 2.5 Vision 7B Instruct",
         "text": "Qwen 2.5 Vision 7B Instruct developed by Alibaba and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/llama3-8b.png",
-        "label": [
-          "✍️ Text Generation",
-          "👁️ Image-to-Text"
-        ]
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/alibaba.png",
+        "label": ["✍️ Text Generation", "👁️ Image-to-Text"]
       }
     }
   ]
