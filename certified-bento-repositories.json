@@ -630,6 +630,19 @@
           "👁️ Image-to-Text"
         ]
       }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "bentovllm-jamba1.5-large-service",
+      "description": {
+        "name": "Jamba 1.5 Large",
+        "text": "Jamba 1.5 Large developed by AI21 Lab and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/jamba1.5-large",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/ai21-lab.png",
+        "label": [
+          "✍️ Text Generation"
+        ]
+      }
     }
   ]
 }
