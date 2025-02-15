@@ -524,34 +524,6 @@
           "✍️ Text Generation"
         ]
       }
-    },
-    {
-      "org_name": "bentoml",
-      "repo_name": "bentovllm-qwen2.5vl-3b-instruct-service",
-      "description": {
-        "name": "Qwen 2.5 Vision 3B Instruct",
-        "text": "Qwen 2.5 Vision 3B Instruct developed by Alibaba and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/qwen2.5vl-3b-instruct",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/alibaba.png",
-        "label": [
-          "✍️ Text Generation",
-          "👁️ Image-to-Text"
-        ]
-      }
-    },
-    {
-      "org_name": "bentoml",
-      "repo_name": "bentovllm-qwen2.5vl-7b-instruct-service",
-      "description": {
-        "name": "Qwen 2.5 Vision 7B Instruct",
-        "text": "Qwen 2.5 Vision 7B Instruct developed by Alibaba and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/qwen2.5vl-7b-instruct",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/alibaba.png",
-        "label": [
-          "✍️ Text Generation",
-          "👁️ Image-to-Text"
-        ]
-      }
     }
   ]
 }
