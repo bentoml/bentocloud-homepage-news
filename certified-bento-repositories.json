@@ -475,20 +475,6 @@
     },
     {
       "org_name": "bentoml",
-      "repo_name": "bentovllm-pixtral-12b-fp8-2409-service",
-      "description": {
-        "name": "Pixtral 12B FP8 2409",
-        "text": "Pixtral 12B FP8 2409 developed by NeuralMagic and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/pixtral-12b-fp8-2409",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/neuralmagic.png",
-        "label": [
-          "✍️ Text Generation",
-          "👁️ Image-to-Text"
-        ]
-      }
-    },
-    {
-      "org_name": "bentoml",
       "repo_name": "bentovllm-pixtral-large-2411-service",
       "description": {
         "name": "Pixtral Large Instruct 2411",
@@ -498,19 +484,6 @@
         "label": [
           "✍️ Text Generation",
           "👁️ Image-to-Text"
-        ]
-      }
-    },
-    {
-      "org_name": "bentoml",
-      "repo_name": "bentovllm-mixtral-8x7b-v0.1-service",
-      "description": {
-        "name": "Mixtral 8x7B v0.1 Mixture of Expert",
-        "text": "Mixtral 8x7B v0.1 Mixture of Expert developed by Mistral AI and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/mixtral-8x7b-v0.1",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mistral-ai.png",
-        "label": [
-          "✍️ Text Generation"
         ]
       }
     },
