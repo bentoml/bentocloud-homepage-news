@@ -542,19 +542,6 @@
     },
     {
       "org_name": "bentoml",
-      "repo_name": "bentovllm-mistral-large-123b-instruct-2407-service",
-      "description": {
-        "name": "Mistral Large 123B Instruct 2407",
-        "text": "Mistral Large 123B Instruct 2407 developed by Mistral AI and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/mistral-large-123b-instruct-2407",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mistral-ai.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
-      }
-    },
-    {
-      "org_name": "bentoml",
       "repo_name": "bentovllm-phi4-14b-service",
       "description": {
         "name": "Phi 4 14B",
@@ -639,6 +626,45 @@
         "text": "Qwen 2.5 Coder 32B Instruct developed by Alibaba and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM/tree/main/qwen2.5-coder-32b-instruct",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/alibaba.png",
+        "label": [
+          "✍️ Text Generation"
+        ]
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "bentovllm-r1-qwen2.5-14b-w8a8-service",
+      "description": {
+        "name": "DeepSeek R1 Distill Qwen 2.5 14B w8a8 GPTQ",
+        "text": "DeepSeek R1 Distill Qwen 2.5 14B w8a8 GPTQ developed by NeuralMagic and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/deepseek-r1-distill-qwen2.5-14b-w8a8",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/neuralmagic.png",
+        "label": [
+          "✍️ Text Generation"
+        ]
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "bentovllm-r1-qwen2.5-14b-w4a16-service",
+      "description": {
+        "name": "DeepSeek R1 Distill Qwen 2.5 14B w4a16 GPTQ",
+        "text": "DeepSeek R1 Distill Qwen 2.5 14B w4a16 GPTQ developed by NeuralMagic and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/deepseek-r1-distill-qwen2.5-14b-w4a16",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/neuralmagic.png",
+        "label": [
+          "✍️ Text Generation"
+        ]
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "bentovllm-mistral-large-123b-instruct-2411-service",
+      "description": {
+        "name": "Mistral Large 123B Instruct 2411",
+        "text": "Mistral Large 123B Instruct 2411 developed by Mistral AI and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/mistral-large-123b-instruct-2411",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mistral-ai.png",
         "label": [
           "✍️ Text Generation"
         ]
