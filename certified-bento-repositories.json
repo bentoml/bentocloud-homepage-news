@@ -15,19 +15,6 @@
     },
     {
       "org_name": "bentoml",
-      "repo_name": "stable_diffusion_video",
-      "description": {
-        "name": "Stable Diffusion Video",
-        "text": "Foundation model for generative video based on the image model Stable Diffusion.",
-        "link": "github.com/bentoml/BentoDiffusion/tree/main/svd",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/stabilityai.png",
-        "label": [
-          "🎬 Video Generation"
-        ]
-      }
-    },
-    {
-      "org_name": "bentoml",
       "repo_name": "stable_diffusion2",
       "description": {
         "name": "Stable Diffusion 2",
@@ -36,33 +23,6 @@
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/stabilityai.png",
         "label": [
           "🎨 Image Generation"
-        ]
-      }
-    },
-    {
-      "org_name": "bentoml",
-      "repo_name": "sdxl_turbo",
-      "description": {
-        "name": "SDXL Turbo",
-        "text": "SDXL Turbo achieves state-of-the-art performance with a new distillation technology, enabling single-step image generation with unprecedented quality, reducing the required step count from 50 to just one.",
-        "link": "github.com/bentoml/BentoDiffusion/tree/main/sdxl-turbo",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/stabilityai.png",
-        "label": [
-          "🎨 Image Generation"
-        ]
-      }
-    },
-    {
-      "org_name": "bentoml",
-      "repo_name": "blip_image_captioning",
-      "description": {
-        "name": "BLIP",
-        "text": "BLIP is a model that is able to perform various multi-modal tasks including visual question answering, image-text retrieval (image-text matching), and image captioning.",
-        "link": "github.com/bentoml/BentoBlip/tree/main/BLIP2",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/salesforce.jpeg",
-        "label": [
-          "👁️ Image-to-Text",
-          "🕸️ Embedding"
         ]
       }
     },
@@ -102,19 +62,6 @@
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/st.png",
         "label": [
           "🕸️ Embedding"
-        ]
-      }
-    },
-    {
-      "org_name": "bentoml",
-      "repo_name": "latent_consistency",
-      "description": {
-        "name": "LCM",
-        "text": "Latent Consistency Models (LCMs) are able to generate high-quality images in just a few steps, representing a big leap forward because many pipelines require at least 25+ steps.",
-        "link": "github.com/bentoml/BentoDiffusion/tree/main/lcm",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/lcm.png",
-        "label": [
-          "🎨 Image Generation"
         ]
       }
     },
