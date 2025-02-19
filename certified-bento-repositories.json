@@ -67,6 +67,20 @@
     },
     {
       "org_name": "bentoml",
+      "repo_name": "blip_image_captioning",
+      "description": {
+        "name": "BLIP",
+        "text": "BLIP is a model that is able to perform various multi-modal tasks including visual question answering, image-text retrieval (image-text matching), and image captioning.",
+        "link": "github.com/bentoml/BentoBlip/tree/main/BLIP2",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/salesforce.jpeg",
+        "label": [
+          "👁️ Image-to-Text",
+          "🕸️ Embedding"
+        ]
+      }
+    },
+    {
+      "org_name": "bentoml",
       "repo_name": "clip",
       "description": {
         "name": "CLIP",
