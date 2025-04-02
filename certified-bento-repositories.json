@@ -278,19 +278,6 @@
     },
     {
       "org_name": "bentoml",
-      "repo_name": "bentovllm-hermes-3-llama3.1-405b-service",
-      "description": {
-        "name": "Hermes 3 Llama 3.1 405B FP8",
-        "text": "Hermes 3 Llama 3.1 405B FP8 developed by NousResearch and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/hermes-3-llama3.1-405b",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/nousresearch.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
-      }
-    },
-    {
-      "org_name": "bentoml",
       "repo_name": "bentovllm-pixtral-12b-2409-service",
       "description": {
         "name": "Pixtral 12B 2409",
@@ -376,6 +363,45 @@
         "text": "QWQ 32B developed by Alibaba and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM/tree/main/qwq-32b",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/alibaba.png",
+        "label": [
+          "✍️ Text Generation"
+        ]
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "bentovllm-gemma3-4b-instruct-service",
+      "description": {
+        "name": "Gemma 3 4B Instruct",
+        "text": "Gemma 3 4B Instruct developed by Google and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/gemma3-4b-instruct",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/google.png",
+        "label": [
+          "✍️ Text Generation"
+        ]
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "bentovllm-mistral-small-24b-mm-2503-service",
+      "description": {
+        "name": "Mistral Small 3.1 24B Instruct 2503 with Vision and Reasoning capabilities",
+        "text": "Mistral Small 3.1 24B Instruct 2503 with Vision and Reasoning capabilities developed by Mistral AI and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/mistral-small-24b-mm-2503",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mistral-ai.png",
+        "label": [
+          "✍️ Text Generation"
+        ]
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "bentovllm-mistral-small-3.1-24b-instruct-2503-service",
+      "description": {
+        "name": "Mistral Small 3.1 24B Instruct 2503 with Vision and Reasoning capabilities",
+        "text": "Mistral Small 3.1 24B Instruct 2503 with Vision and Reasoning capabilities developed by Mistral AI and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/mistral-small-3.1-24b-instruct-2503",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mistral-ai.png",
         "label": [
           "✍️ Text Generation"
         ]
