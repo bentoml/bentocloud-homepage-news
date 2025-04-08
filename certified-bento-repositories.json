@@ -406,6 +406,19 @@
           "✍️ Text Generation"
         ]
       }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "bentovllm-llama4-17B-scout-instruct-service",
+      "description": {
+        "name": "Llama 4 Scout 17B-16E Instruct",
+        "text": "Llama 4 Scout 17B-16E Instruct developed by Meta and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/llama4-17B-scout-instruct",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/meta.png",
+        "label": [
+          "✍️ Text Generation"
+        ]
+      }
     }
   ]
 }
