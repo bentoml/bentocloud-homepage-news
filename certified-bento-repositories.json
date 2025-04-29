@@ -487,6 +487,19 @@
           "✍️ Text Generation"
         ]
       }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "bentovllm-gemma3-1b-instruct-service",
+      "description": {
+        "name": "Gemma 3 1B Instruct",
+        "text": "Gemma 3 1B Instruct developed by Google and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/gemma3-1b-instruct",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/google.png",
+        "label": [
+          "✍️ Text Generation"
+        ]
+      }
     }
   ]
 }
