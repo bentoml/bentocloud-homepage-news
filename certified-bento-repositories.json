@@ -437,19 +437,6 @@
     },
     {
       "org_name": "bentoml",
-      "repo_name": "bentovllm-qwen3-8b-instruct-service",
-      "description": {
-        "name": "Qwen 3 8B Instruct",
-        "text": "Qwen 3 8B Instruct developed by Alibaba and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/qwen3-8b-instruct",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/alibaba.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
-      }
-    },
-    {
-      "org_name": "bentoml",
       "repo_name": "bentovllm-qwen3-235b-a22b-service",
       "description": {
         "name": "Qwen 3 235B A22B MoE",
@@ -468,6 +455,19 @@
         "name": "Qwen 3 30B A3B MoE",
         "text": "Qwen 3 30B A3B MoE developed by Alibaba and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
         "link": "github.com/bentoml/BentoVLLM/tree/main/qwen3-30b-A3b",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/alibaba.png",
+        "label": [
+          "✍️ Text Generation"
+        ]
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "bentovllm-qwen3-8b-service",
+      "description": {
+        "name": "Qwen 3 8B",
+        "text": "Qwen 3 8B developed by Alibaba and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/qwen3-8b",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/alibaba.png",
         "label": [
           "✍️ Text Generation"
