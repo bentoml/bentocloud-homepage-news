@@ -437,6 +437,20 @@
     },
     {
       "org_name": "bentoml",
+      "repo_name": "bentovllm-qwen2.5-vl-32b-instruct-service",
+      "description": {
+        "name": "Qwen 2.5 VL 32B Instruct",
+        "text": "Qwen 2.5 VL 32B Instruct developed by Alibaba and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/qwen2.5-vl-32b-instruct",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/alibaba.png",
+        "label": [
+          "✍️ Text Generation",
+          "👁️ Image-to-Text"
+        ]
+      }
+    },
+    {
+      "org_name": "bentoml",
       "repo_name": "bentovllm-qwen3-235b-a22b-service",
       "description": {
         "name": "Qwen 3 235B A22B MoE",
