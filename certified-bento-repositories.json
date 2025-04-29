@@ -450,7 +450,7 @@
     },
     {
       "org_name": "bentoml",
-      "repo_name": "bentovllm-qwen3-235b-A22b-service",
+      "repo_name": "bentovllm-qwen3-235b-a22b-service",
       "description": {
         "name": "Qwen 3 235B A22B MoE",
         "text": "Qwen 3 235B A22B MoE developed by Alibaba and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
@@ -463,7 +463,7 @@
     },
     {
       "org_name": "bentoml",
-      "repo_name": "bentovllm-qwen3-30b-A3b-service",
+      "repo_name": "bentovllm-qwen3-30b-a3b-service",
       "description": {
         "name": "Qwen 3 30B A3B MoE",
         "text": "Qwen 3 30B A3B MoE developed by Alibaba and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
