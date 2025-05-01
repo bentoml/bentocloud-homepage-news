@@ -424,6 +424,19 @@
           "✍️ Text Generation"
         ]
       }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "phi4-14b-reasoning",
+      "description": {
+        "name": "Phi 4 14B Reasoning",
+        "text": "Phi 4 14B Reasoning developed by Microsoft and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/phi4-14b-reasoning",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/microsoft.png",
+        "label": [
+          "✍️ Text Generation"
+        ]
+      }
     }
   ]
 }
