@@ -500,6 +500,32 @@
           "✍️ Text Generation"
         ]
       }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "bentovllm-deepseek-prover-v2-671b-service",
+      "description": {
+        "name": "DeepSeek Prover V2 671B",
+        "text": "DeepSeek Prover V2 671B developed by DeepSeek and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/deepseek-prover-v2-671b",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/deepseek.png",
+        "label": [
+          "✍️ Text Generation"
+        ]
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "bentovllm-deepseek-prover-v2-7b-service",
+      "description": {
+        "name": "DeepSeek Prover V2 7B",
+        "text": "DeepSeek Prover V2 7B developed by DeepSeek and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/deepseek-prover-v2-7b",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/deepseek.png",
+        "label": [
+          "✍️ Text Generation"
+        ]
+      }
     }
   ]
 }
