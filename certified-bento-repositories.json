@@ -437,6 +437,19 @@
           "✍️ Text Generation"
         ]
       }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "deepseek-r1-0528-qwen3-8b",
+      "description": {
+        "name": "DeepSeek R1 0528 Qwen3 8B",
+        "text": "DeepSeek R1 0528 Qwen3 8B developed by DeepSeek and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/deepseek-r1-0528-qwen3-8b",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/deepseek.png",
+        "label": [
+          "✍️ Text Generation"
+        ]
+      }
     }
   ]
 }
