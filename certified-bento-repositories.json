@@ -450,6 +450,19 @@
           "✍️ Text Generation"
         ]
       }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "magistral-small-2506",
+      "description": {
+        "name": "Magistral 3.1 24B 2506 Reasoning Model",
+        "text": "Magistral 3.1 24B 2506 Reasoning Model developed by Mistral AI and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/magistral-small-2506",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mistral-ai.png",
+        "label": [
+          "✍️ Text Generation"
+        ]
+      }
     }
   ]
 }
