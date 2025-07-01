@@ -99,7 +99,7 @@
       "description": {
         "name": "DeepSeek R1 0528 Qwen3 8B",
         "text": "DeepSeek R1 0528 Qwen3 8B developed by DeepSeek and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/deepseek-r1-0528-qwen3-8b.yaml",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/deepseek-r1-0528-qwen3-8b",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/deepseek.png",
         "label": [
           "✍️ Text Generation"
@@ -112,7 +112,7 @@
       "description": {
         "name": "Magistral 3.1 24B 2506 Reasoning Model",
         "text": "Magistral 3.1 24B 2506 Reasoning Model developed by Mistral AI and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/magistral-small-2506.yaml",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/magistral-small-2506",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mistral-ai.png",
         "label": [
           "✍️ Text Generation"
@@ -125,7 +125,7 @@
       "description": {
         "name": "Jamba 1.6 Mini",
         "text": "Jamba 1.6 Mini developed by AI21 Lab and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/jamba1.6-mini.yaml",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/jamba1.6-mini",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/ai21-lab.png",
         "label": [
           "✍️ Text Generation"
@@ -138,7 +138,7 @@
       "description": {
         "name": "DeepSeek V3 671B",
         "text": "DeepSeek V3 671B developed by DeepSeek and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/deepseek-v3-671b.yaml",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/deepseek-v3-671b",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/deepseek.png",
         "label": [
           "✍️ Text Generation"
@@ -151,7 +151,7 @@
       "description": {
         "name": "Phi 4 14B",
         "text": "Phi 4 14B developed by Microsoft and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/phi4-14b.yaml",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/phi4-14b",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/microsoft.png",
         "label": [
           "✍️ Text Generation"
@@ -164,7 +164,7 @@
       "description": {
         "name": "Llama 3.3 70B Instruct",
         "text": "Llama 3.3 70B Instruct developed by Meta and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/llama3.3-70b-instruct.yaml",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/llama3.3-70b-instruct",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/meta.png",
         "label": [
           "✍️ Text Generation"
@@ -177,7 +177,7 @@
       "description": {
         "name": "Qwen 3 30B A3B MoE",
         "text": "Qwen 3 30B A3B MoE developed by Alibaba and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/qwen3-30b-a3b.yaml",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/qwen3-30b-a3b",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/alibaba.png",
         "label": [
           "✍️ Text Generation"
@@ -190,7 +190,7 @@
       "description": {
         "name": "Llama 4 Scout 17B-16E Instruct",
         "text": "Llama 4 Scout 17B-16E Instruct developed by Meta and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/llama4-17b-scout-instruct.yaml",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/llama4-17b-scout-instruct",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/meta.png",
         "label": [
           "✍️ Text Generation",
@@ -204,8 +204,21 @@
       "description": {
         "name": "Qwen 3 235B A22B MoE",
         "text": "Qwen 3 235B A22B MoE developed by Alibaba and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/qwen3-235b-a22b.yaml",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/qwen3-235b-a22b",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/alibaba.png",
+        "label": [
+          "✍️ Text Generation"
+        ]
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "phi4-14b-reasoning-plus",
+      "description": {
+        "name": "Phi 4 14B Reasoning",
+        "text": "Phi 4 14B Reasoning developed by Microsoft and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/phi4-14b-reasoning-plus",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/microsoft.png",
         "label": [
           "✍️ Text Generation"
         ]
@@ -217,7 +230,7 @@
       "description": {
         "name": "Llama 3.1 3B Instruct",
         "text": "Llama 3.1 3B Instruct developed by Meta and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/llama3.2-3b-instruct.yaml",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/llama3.2-3b-instruct",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/meta.png",
         "label": [
           "✍️ Text Generation"
@@ -230,7 +243,7 @@
       "description": {
         "name": "Mistral Small 3.1 24B Instruct 2503 with Vision and Reasoning capabilities",
         "text": "Mistral Small 3.1 24B Instruct 2503 with Vision and Reasoning capabilities developed by Mistral AI and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/mistral-small-3.1-24b-instruct-2503.yaml",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/mistral-small-3.1-24b-instruct-2503",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mistral-ai.png",
         "label": [
           "✍️ Text Generation",
@@ -244,7 +257,7 @@
       "description": {
         "name": "Llama 3.1 8B Instruct",
         "text": "Llama 3.1 8B Instruct developed by Meta and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/llama3.1-8b-instruct.yaml",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/llama3.1-8b-instruct",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/meta.png",
         "label": [
           "✍️ Text Generation"
@@ -257,7 +270,7 @@
       "description": {
         "name": "DeepSeek R1 Distill Llama 3.3 70B",
         "text": "DeepSeek R1 Distill Llama 3.3 70B developed by DeepSeek and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/deepseek-r1-llama3.3-70b.yaml",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/deepseek-r1-llama3.3-70b",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/deepseek.png",
         "label": [
           "✍️ Text Generation"
@@ -270,7 +283,7 @@
       "description": {
         "name": "Gemma 3 4B Instruct",
         "text": "Gemma 3 4B Instruct developed by Google and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/gemma3-4b-instruct.yaml",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/gemma3-4b-instruct",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/google.png",
         "label": [
           "✍️ Text Generation",
@@ -284,7 +297,7 @@
       "description": {
         "name": "DeepSeek R1 671B",
         "text": "DeepSeek R1 671B developed by DeepSeek and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/deepseek-r1-671b.yaml",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/deepseek-r1-671b",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/deepseek.png",
         "label": [
           "✍️ Text Generation"
@@ -297,7 +310,7 @@
       "description": {
         "name": "Qwen 3 8B",
         "text": "Qwen 3 8B developed by Alibaba and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/qwen3-8b.yaml",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/qwen3-8b",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/alibaba.png",
         "label": [
           "✍️ Text Generation"
@@ -310,7 +323,7 @@
       "description": {
         "name": "Devstral Small 2505",
         "text": "Devstral Small 2505 developed by Mistral AI and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/devstral-small-2505.yaml",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/devstral-small-2505",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/mistral-ai.png",
         "label": [
           "✍️ Text Generation"
@@ -323,7 +336,7 @@
       "description": {
         "name": "Llama 4 Maverick 17B-128E Instruct",
         "text": "Llama 4 Maverick 17B-128E Instruct developed by Meta and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/llama4-17b-maverick-instruct.yaml",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/llama4-17b-maverick-instruct",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/meta.png",
         "label": [
           "✍️ Text Generation",
@@ -337,7 +350,7 @@
       "description": {
         "name": "Phi 4 14B Reasoning",
         "text": "Phi 4 14B Reasoning developed by Microsoft and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/phi4-14b-reasoning.yaml",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/phi4-14b-reasoning",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/microsoft.png",
         "label": [
           "✍️ Text Generation"
@@ -350,7 +363,7 @@
       "description": {
         "name": "Jamba 1.6 Large",
         "text": "Jamba 1.6 Large developed by AI21 Lab and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/jamba1.6-large.yaml",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/jamba1.6-large",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/ai21-lab.png",
         "label": [
           "✍️ Text Generation"
@@ -363,21 +376,8 @@
       "description": {
         "name": "DeepSeek Prover V2 671B",
         "text": "DeepSeek Prover V2 671B developed by DeepSeek and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/deepseek-prover-v2-671b.yaml",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/deepseek-prover-v2-671b",
         "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/deepseek.png",
-        "label": [
-          "✍️ Text Generation"
-        ]
-      }
-    },
-    {
-      "org_name": "bentoml",
-      "repo_name": "phi4-14b-reasoning-plus",
-      "description": {
-        "name": "Phi 4 14B Reasoning",
-        "text": "Phi 4 14B Reasoning developed by Microsoft and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
-        "link": "github.com/bentoml/BentoVLLM/tree/main/phi4-14b-reasoning-plus.yaml",
-        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/microsoft.png",
         "label": [
           "✍️ Text Generation"
         ]
