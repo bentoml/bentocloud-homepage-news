@@ -289,6 +289,19 @@
           "✍️ Text Generation"
         ]
       }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "qwen3-coder-408b-a35b",
+      "description": {
+        "name": "Qwen 3 Coder 480B A35B MoE",
+        "text": "Qwen 3 Coder 480B A35B MoE developed by Alibaba and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/qwen3-coder-408b-a35b",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/alibaba.png",
+        "label": [
+          "✍️ Text Generation"
+        ]
+      }
     }
   ]
 }
