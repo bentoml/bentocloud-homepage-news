@@ -302,6 +302,19 @@
           "✍️ Text Generation"
         ]
       }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "gpt-oss-120b",
+      "description": {
+        "name": "GPT OSS MoE 120B",
+        "text": "GPT OSS MoE 120B developed by OpenAI and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/gpt-oss-120b",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/openai.png",
+        "label": [
+          "✍️ Text Generation"
+        ]
+      }
     }
   ]
 }
