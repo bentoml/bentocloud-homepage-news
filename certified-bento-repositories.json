@@ -354,6 +354,32 @@
           "✍️ Text Generation"
         ]
       }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "qwen3-next-80b-a3b",
+      "description": {
+        "name": "Qwen 3 Next 80B A3B MoE",
+        "text": "Qwen 3 Next 80B A3B MoE developed by Alibaba and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/qwen3-next-80b-a3b",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/alibaba.png",
+        "label": [
+          "✍️ Text Generation"
+        ]
+      }
+    },
+    {
+      "org_name": "bentoml",
+      "repo_name": "deepseek-v3.1-671b",
+      "description": {
+        "name": "DeepSeek V3.1 671B",
+        "text": "DeepSeek V3.1 671B developed by DeepSeek and served using vLLM and BentoML. It offers capabilities for streaming and compatibility with OpenAI's API",
+        "link": "github.com/bentoml/BentoVLLM/tree/main/deepseek-v3.1-671b",
+        "image": "https://raw.githubusercontent.com/bentoml/bentocloud-homepage-news/main/imgs/deepseek.png",
+        "label": [
+          "✍️ Text Generation"
+        ]
+      }
     }
   ]
 }
